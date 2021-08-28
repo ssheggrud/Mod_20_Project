@@ -40,7 +40,7 @@ Draft Database Column Schema:
 
 Entity Relationship Diagram:
 
-### Process
+### ETL Process
 
 The steps taken to extract, transform, and load the data for analysis are as follows:
 
