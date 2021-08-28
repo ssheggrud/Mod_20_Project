@@ -11,6 +11,9 @@ In attempt to find correlation across money donated, money expended, and overall
 - Will a donation sum amount have any relationship to a candidate’s election result?
 - Will a donation sum from a particular occupation or industry have a relationship to a candidate’s election result?
 
+## Technologies
+
+AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 ## Data
 Datasets date back to 1989 occur every 4 years to present year 2021. 
@@ -52,11 +55,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 - Perform SMOTEENN analysis and generate associated figures (balanced accuracy score, confusion matrix, and classification report)
 
 - TBA
-
-
-## Technologies
-
-AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 ### Features to be Implemented
 
