@@ -31,7 +31,13 @@ CandidateExpenditures:
 
         - COLUMNS: ELECTION	OFFICECD	CANDID	CANCLASS	CANDLAST	CANDFIRST	CANDMI	COMMITTEE	FILING	SCHEDULE	PAGENO	SEQUENCENO	REFNO	INV_DATE	DATE	NAME	C_CODE	ORG_IND	STRNO	STRNAME	APARTMENT	CITY	STATE	ZIP	PAY_METHOD	AMNT	PURPOSECD	PURPOSE	EXPLAIN	EXEMPTCD	RR_IND	SEG_IND
 
-## Preliminary Schema
+
+Draft Database Column Schema: 
+
+
+Entity Relationship Diagram:
+
+### Process
 
 The steps taken to extract, transform, and load the data for analysis are as follows:
 
@@ -47,9 +53,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 - TBA
 
-Draft Database Column Schema: 
-
-  Entity Relationship Diagram:
 
 ## Technologies
 
@@ -82,7 +85,6 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
     - Co point for docs
     - CIRCLE
   
-
 ### Riley
     - Co point for database schema
     - Co point for docs
