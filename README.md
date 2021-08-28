@@ -47,7 +47,7 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
  - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
 
 
-## ML Model
+## ML Model (ADD HERE ABIR)
 
 
 ## Roles
