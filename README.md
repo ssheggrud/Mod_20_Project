@@ -16,7 +16,7 @@ In attempt to find correlation across money donated, money expended, and overall
 AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 
-### Features to be Implemented
+## Features to be Implemented
 
  - A pandas data parser to edit data into database entries with 
    emphasis on the following columns. 
