@@ -15,6 +15,19 @@ In attempt to find correlation across money donated, money expended, and overall
 
 AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
+
+### Features to be Implemented
+
+ - A pandas data parser to edit data into database entries with 
+   emphasis on the following columns. 
+
+ - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
+
+ - A supervised categorical machine learning approach using TensorFlow which predicts election outcomes on categorical column attributes.
+
+ - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
+
+
 ## Data
 Datasets date back to 1989 occur every 4 years to present year 2021. 
 
@@ -55,18 +68,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 - Perform SMOTEENN analysis and generate associated figures (balanced accuracy score, confusion matrix, and classification report)
 
 - TBA
-
-### Features to be Implemented
-
- - A pandas data parser to edit data into database entries with 
-   emphasis on the following columns. 
-
- - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
-
- - A supervised categorical machine learning approach using TensorFlow which predicts election outcomes on categorical column attributes.
-
- - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
-
 
 ## ML Model (ADD HERE ABIR)
 
