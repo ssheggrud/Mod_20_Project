@@ -52,13 +52,13 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 
 ## Roles
+ ### Abir
+    - Point for machine learning
+    
  ### Brandon
     - Co point for technologies
     - Co point for database schema
     - Co point for docs
-
-### Abir
-    - Point for machine learning
 
 ### Riley
     - Co point for database schema
