@@ -11,7 +11,8 @@ In attempt to find correlation across money donated, money expended, and overall
 Datasets date back to 1989 occur every 4 years to present year 2021. 
 
 For starters:
-  The datasets
+  The datasets:
+  
     'CandidateContributions:
             - starting columns: OCCUPATION	EMPNAME	EMPSTRNO	EMPSTRNAME	EMPCITY	EMPSTATE	AMNT	MATCHAMNT	PREVAMNT	PAY_METHOD	INTERMNO	INTERMNAME	INTSTRNO	INTSTRNM	INTAPTNO	INTCITY	INTST	INTZIP	INTEMPNAME	INTEMPSTNO	INTEMPSTNM	INTEMPCITY	INTEMPST	INTOCCUPA	PURPOSECD	EXEMPTCD	ADJTYPECD	RR_IND	SEG_IND	INT_C_CODE
             - draft database column schema: 
