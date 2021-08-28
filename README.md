@@ -51,42 +51,38 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 
 ## Roles
- ### Brandon
-    - Co point for technologies
-    - Co point for database schema
-    - Co point for docs
 
 ### Abir
     - Point for machine learning
+    - TRIANGLE
+    
+### Brandon
+    - Co point for technologies
+    - Co point for database schema
+    - Co point for docs
+    - CIRCLE
+  
 
 ### Riley
     - Co point for database schema
     - Co point for docs
+    - CIRCLE
 
 ### Jose
     - Point for data visualization
     - Co point for technologies
     - Co point for integration
+    - X
 
 ### Pooja
     - Point for data ops
+    - TRIANGLE
 
 ### Sherry
     - Point for repository management
     - Co point for integration
     - Co point for docs
-
-## Square
-    - Sherry
-## Triangle
-    - Abir
-    - Pooja
-## Circle
-    - Brandon
-    - Riley
-## X
-    - Brandon
-    - Jose
+    - SQUARE
 
 ## Preliminary Schema
 
