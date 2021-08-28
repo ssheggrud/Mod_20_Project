@@ -79,7 +79,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
     - TRIANGLE
     
 ### Brandon
-    - Co point for technologies
+    - Co point for technologies and integration
     - Co point for database schema
     - Co point for docs
     - CIRCLE
@@ -91,8 +91,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ### Jose
     - Point for data visualization
-    - Co point for technologies
-    - Co point for integration
+    - Co point for technologies and integration
     - X
 
 ### Pooja
