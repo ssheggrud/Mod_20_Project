@@ -9,7 +9,7 @@ In attempt to find correlation across money donated, money expended, and overall
 
 ## Questions
 - Will a donation sum amount have any relationship to a candidate’s election result?
-- Will a donation sum from a particular occupation or industry have a relationship with a candidate’s election result?
+- Will a donation sum from a particular occupation or industry have a relationship to a candidate’s election result?
 
 
 ## Data
