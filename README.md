@@ -18,8 +18,7 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 ## Features to be Implemented
 
- - A pandas data parser to edit data into database entries with 
-   emphasis on the following columns. 
+ - A pandas data parser to edit data into database entries
 
  - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
 
@@ -32,8 +31,6 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 Datasets date back to 1989 occur every 4 years to present year 2021. 
 
 For starters: The datasets:
-
-
 
 CandidateContributions:
 
