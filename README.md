@@ -1,7 +1,7 @@
-# GROUP PROJECT TITLE
-
+# ELECTION RESULTS
 
 ## Overview
+The purpose of this project is to find out how money affects the outcome of elections. 
 
 This project aims to analyze the outcome of the 2021 mayoral election for New York City using data primarily from the New York City Campaign Finance Board's data repositories found here, https://www.nyccfb.info/, looking at 'Follow the Money NYC database for 'Candidate Contributions and 'Candidate Expenditures accross boroughs, districts, and types of donations or expenditures. 
 
@@ -26,6 +26,12 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
  - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
 
+## Week 1 Achievements
+
+- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates. 
+- Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
+- At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add the election results manually to our source excel as as individual column. We will name this column "Won/Elected".
+- We have successfully identified roles for all the team members and have a good outline for our project.
 
 ## Data
 Datasets date back to 1989 occur every 4 years to present year 2021. 
@@ -60,7 +66,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 - Clean data of stray marks, unnecessary prefixes/suffixes, and other imperfections to ensure smooth, error-free processing.
 
-- usedummies for desired string values, e.g. for donor's profession and recipient candidate.
+- use dummies for desired string values, e.g. for donor's profession and recipient candidate.
 
 - Perform SMOTEENN analysis and generate associated figures (balanced accuracy score, confusion matrix, and classification report)
 
@@ -93,6 +99,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ### Pooja
     - Point for data ops
+    - Point for data visualization
     - TRIANGLE
 
 ### Sherry
