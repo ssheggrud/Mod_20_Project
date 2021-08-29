@@ -18,7 +18,7 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 ## Features to be Implemented
 
- - A pandas data parser to edit data into database entries
+ - A pandas data parser to edit data into database entry format.
 
  - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
 
