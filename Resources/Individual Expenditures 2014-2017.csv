@@ -1,0 +1,61 @@
+ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,INV_DATE,DATE,NAME,C_CODE,ORG_IND,STRNO,STRNAME,APARTMENT,CITY,STATE,ZIP,PAY_METHOD,AMNT,PURPOSECD,PURPOSE,EXPLAIN,EXEMPTCD,RR_IND,SEG_IND
+2013,1,1669,NP,Credico,Randy,,H,16,F,,,R0001093,1/7/2014,1/7/2014,3DNA NATIONBUILDER,OTHR,Y,,,,LOS ANGELES,CA,90013,Unknown,19,OFFCE,Office Expenses,SUBSCRIPTION,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042405,8/21/2013,1/8/2014,AKPD,CORP,Y,,,,Chicago,IL,60654,Unknown,0.6,OTHER,Other: explntion,Monthly Fee,,N,N
+2013,1,1666,P,Salgado,Erick,J,H,16,F,,,R0002342,1/3/2014,1/3/2014,Authnet Gateway Billing,OTHR,Y,,,,,,,Unknown,20,OTHER,Other: explntion,c/c merchant fee,,N,N
+2013,1,1669,NP,Credico,Randy,,H,16,F,,,R0001091,1/2/2014,1/2/2014,BANK OF AMERICA,CORP,Y,,,,HUNTINGTON,NY,11743,Unknown,29.95,OFFCE,Office Expenses,BANK FEE,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027506,1/9/2014,1/11/2014,"Century Direct, LLC",CORP,Y,,,,Queens,NY,11101,Unknown,1742,OFFCE,Office Expenses,Letterhead,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027508,11/1/2013,1/11/2014,ConEdison,CORP,Y,,,,Rye,NY,10580,Unknown,5100.23,OFFCE,Office Expenses,Electric,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042897,1/9/2014,1/10/2014,de Blasio Transition Committee,OTHR,Y,,,,New York,NY,10007,Unknown,445.1,FUNDR,Fundraising,Software - Thx You's,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042418,,1/10/2014,"de Blasio, Bill",CAN,N,,,,Brooklyn,NY,11215,Advance,335,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027372,1/3/2014,1/3/2014,EMPS,CORP,Y,,,,Ft. Lauderdale,FL,33340,Unknown,34.95,FUNDR,Fundraising,Fee,,Y,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027374,1/3/2014,1/3/2014,EMPS,CORP,Y,,,,Ft. Lauderdale,FL,33340,Unknown,20,FUNDR,Fundraising,Fee,,Y,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027423,1/3/2014,1/3/2014,EMPS,CORP,Y,,,,Ft. Lauderdale,FL,33340,Unknown,57.9,FUNDR,Fundraising,Fee,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027425,1/3/2014,1/3/2014,EMPS,CORP,Y,,,,Ft. Lauderdale,FL,33340,Unknown,36.9,FUNDR,Fundraising,Fee,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027427,1/3/2014,1/3/2014,EMPS,CORP,Y,,,,Ft. Lauderdale,FL,33340,Unknown,20,FUNDR,Fundraising,Fee,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027419,1/2/2014,1/6/2014,FedEx Office,CORP,Y,,,,,,,Unknown,9.53,OFFCE,Office Expenses,Supplies,,N,N
+2013,1,BB,P,Weiner,Anthony,D,J,16,F,,,R0015473,1/3/2014,1/3/2014,First Data,CORP,Y,,,,Atlanta,GA,30342,Unknown,194.95,OFFCE,Office Expenses,CC Merchant Fees,,N,N
+2013,1,1605,NP,McDonald,George,T,H,16,F,,,R0002185,1/4/2014,1/4/2014,First Data - Citi Merchant Ser,OTHR,Y,,,,Melville,NY,11747,Unknown,18,FUNDR,Fundraising,credit card pro,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042413,1/3/2014,1/10/2014,Genova Burns & Giantomasi,CORP,Y,,,,New York,NY,,Unknown,8350,PROFL,Prof. Srvcs.,Legal Expenses,,N,N
+2013,1,1605,NP,McDonald,George,T,H,16,F,,,R0002228,1/7/2014,1/7/2014,Google,CORP,Y,,,,Mountian View,CA,94043,Unknown,115,OTHER,Other: explntion,IT Services,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027409,1/2/2014,1/6/2014,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,120,OTHER,Other: explntion,Email,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042315,1/2/2014,1/3/2014,Google,CORP,Y,,,,,,,Unknown,550,PROFL,Prof. Srvcs.,Web Hosting & emails,,N,N
+2013,1,AU,P,Albanese,Sal,F,I,16,F,,,R0003589,1/3/2014,1/3/2014,Google,CORP,Y,,,,,,,Unknown,33.33,OTHER,Other: explntion,google apps,,N,N
+2013,1,BB,P,Weiner,Anthony,D,J,16,F,,,R0015443,1/3/2014,1/3/2014,Google,CORP,Y,,,,Mountain View,CA,94043,Unknown,200,OFFCE,Office Expenses,Web Svcs,,N,N
+2013,1,ED,NP,"Carrion, Jr.",Adolfo,,L,16,F,,,R0009557,1/3/2014,1/3/2014,Google Business Services,CORP,Y,,,,Mountain View,CA,94043,Unknown,20,PROFL,Prof. Srvcs.,Email Svc.,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018326,1/2/2014,1/4/2014,"GOOGLE, INC.",CORP,Y,,,,,,,Unknown,49.49,PROFL,Prof. Srvcs.,EMAIL SYSTEM,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042407,10/17/2013,1/8/2014,Gourmet Gallery,CORP,Y,,,,Stamford,CT,6902,Unknown,50,FUNDR,Fundraising,Event,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042406,11/5/2013,1/8/2014,Greenwood Park,CORP,Y,,,,Brooklyn,NY,11201,Unknown,0.6,FUNDR,Fundraising,Event,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027401,1/7/2014,1/7/2014,Intuit Inc,CORP,Y,,,,Mountain View,CA,94043,Unknown,23.47,OFFCE,Office Expenses,Bookkeeping,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042420,1/6/2014,1/7/2014,IWANTMYNAME Domain,CORP,Y,,,,,,,Unknown,69,OFFCE,Office Expenses,Website Domain,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024964,,1/11/2014,"Johnson, Kasha",IND,N,,,,New York,NY,10033,Advance,263.82,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027504,11/26/2013,1/11/2014,Jones Day,CORP,Y,,,,New York,NY,10017,Unknown,1965.15,OTHER,Other: explntion,Event Space,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018563,1/2/2014,1/2/2014,JP Morgan Chase,CORP,Y,,,,,,,Unknown,0.6,PROFL,Prof. Srvcs.,ACCOUNT CHARGE,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018307,,1/11/2014,"LHOTA, TAMRA J",IND,N,,,,Brooklyn,NY,11201,Advance,305.49,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018305,,1/11/2014,"MASTRO, RANDY",IND,N,,,,New York,NY,10065,Advance,183.15,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042317,1/3/2014,1/3/2014,Merchant Bank,CORP,Y,,,,Hagerstown,MD,21741,Unknown,565.73,FUNDR,Fundraising,Fee,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042319,1/3/2014,1/3/2014,Merchant Bank,CORP,Y,,,,Hagerstown,MD,21741,Unknown,15,FUNDR,Fundraising,Fee,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027389,1/8/2014,1/8/2014,Moishes 8-33 40th Ave Realty,LLC,Y,,,,Long Island City,NY,11101,Unknown,360,OFFCE,Office Expenses,Storage,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027391,1/8/2014,1/8/2014,Moishes 8-33 40th Ave Realty,LLC,Y,,,,Long Island City,NY,11101,Unknown,90.44,OFFCE,Office Expenses,Storage/Moving,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027393,1/8/2014,1/8/2014,Moishes 8-33 40th Ave Realty,LLC,Y,,,,Long Island City,NY,11101,Unknown,27.22,OFFCE,Office Expenses,Storage,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018294,,1/6/2014,"MONTGOMERY, MARK",IND,N,,,,BAYONNE,NJ,7002,Advance,178,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,1666,P,Salgado,Erick,J,H,16,F,,,R0002340,1/2/2014,1/2/2014,Nexus Payment Systems,OTHR,Y,,,,,,,Unknown,31.85,OTHER,Other: explntion,c/c merchant fee,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042408,3/1/2013,1/8/2014,Ohlsen Research,CORP,Y,,,,Portland,OR,97214,Unknown,698.77,CONSL,Campgn Consuls.,Fee,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042359,1/2/2014,1/6/2014,PayPal,CORP,Y,,,,San Jose,CA,95131,Unknown,30,PROFL,Prof. Srvcs.,Fee,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024950,1/2/2014,1/2/2014,"Plus Three, LP",PART,Y,,,,Scotch Plains,NJ,7076,Unknown,1929.8,OFFCE,Office Expenses,Website,,N,N
+2013,1,1690,P,Lhota,Joseph,J,H,16,F,,,R0018296,1/6/2014,1/6/2014,SHRED-IT USA,CORP,Y,,,,New York,NY,10087,Unknown,119.65,OFFCE,Office Expenses,FINAL SHREDDING SERV,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042425,,1/10/2014,"Solomita, Joseph",IND,N,,,,Smithtown,NY,11787,Advance,79.5,ADVAN,Advance Repaymnt,Advance Repayment,,N,N
+2013,1,BB,P,Weiner,Anthony,D,J,16,F,,,R0015525,1/6/2014,1/6/2014,"Sowah, Helena",IND,N,,,,Bronx,NY,10452,Unknown,464,CONSL,Campgn Consuls.,Doc Request,PEA,N,N
+2013,1,BB,P,Weiner,Anthony,D,J,16,F,,,R0015461,1/7/2014,1/7/2014,Staples,CORP,Y,,,,New York,NY,10017,Unknown,124.43,OFFCE,Office Expenses,Supplies,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024946,1/2/2014,1/2/2014,"TD Bank, N.A.",OTHR,Y,,,,Cherry Hill,NJ,8034,Unknown,35.45,OFFCE,Office Expenses,CC Processing Fee,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024948,1/2/2014,1/2/2014,"TD Bank, N.A.",OTHR,Y,,,,Cherry Hill,NJ,8034,Unknown,38.4,OTHER,Other: explntion,CC Processing Fee,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042415,1/1/2014,1/10/2014,United Health Care Oxford,CORP,Y,,,,,,,Unknown,903.02,WAGES,Campgn Wrkrs $$,Healthcare,,N,N
+2013,1,1666,P,Salgado,Erick,J,H,16,F,,,R0002344,11/1/2013,1/10/2014,USA Distributors Inc.,CORP,Y,,,,Union City,NJ,7087,Unknown,1500,PRINT,Print Ads,Ads in newspaper,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042402,1/6/2014,1/7/2014,USPS Postal,CORP,Y,,,,,,,Unknown,1,PROFL,Prof. Srvcs.,Fee,,N,N
+2013,1,1264,NP,Catsimatidis,John,A,I,16,F,,,R0012212,1/4/2014,1/10/2014,"Vereen, Antionette",IND,N,,,,,,,Unknown,489.5,CONSL,Campgn Consuls.,office work,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024864,10/19/2013,1/11/2014,Verizon,CORP,Y,,,,Albany,NY,12212,Unknown,27.47,OFFCE,Office Expenses,Internet,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024955,12/10/2013,1/5/2014,Verizon Wireless,CORP,Y,,,,Acworth,GA,30101,Unknown,115.67,OFFCE,Office Expenses,Phone and internet,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024968,1/8/2014,1/8/2014,Verizon Wireless,CORP,Y,,,,Acworth,GA,30101,Unknown,115.67,OFFCE,Office Expenses,Internet,,N,N
+2013,1,FI,P,Liu,John,C,N,16,F,,,R0024982,1/10/2014,1/10/2014,Verizon Wireless,CORP,Y,,,,Acworth,GA,30101,Unknown,83.52,OFFCE,Office Expenses,Internet,,N,N
+2013,1,204,P,Quinn,Christine,C,M,16,F,,,R0027497,1/1/2014,1/3/2014,"Weir, Anne M",IND,N,,,,New York,NY,10013,Unknown,6500,CONSL,Campgn Consuls.,Fee,,N,N
+2013,1,1605,NP,McDonald,George,T,H,16,F,,,R0002193,12/26/2013,1/11/2014,WuFoo,CORP,Y,,,,,CA,,Unknown,14.95,OTHER,Other: explntion,Email Service,,N,N
+2013,1,326,P,de Blasio,Bill,,N,16,F,,,R0042409,10/21/2013,1/8/2014,Ze Cafe,CORP,Y,,,,New York,NY,10022,Unknown,0.39,FUNDR,Fundraising,Event,,N,N
