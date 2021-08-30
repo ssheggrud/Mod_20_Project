@@ -34,6 +34,10 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 - We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
 - We have successfully identified roles for all the team members and have a good outline for our project.
 
+## Week 2 Anticpated Achievements (Work in progress)
+  -  
+
+
 ## Data
 Datasets date back to 1989 occur every 4 years to present year 2021. 
 
@@ -108,6 +112,7 @@ The second objective of our project is to create a model that is able to predict
 
 ### Jose
     - Point for data visualization
+    - Co point for machine learning
     - Co point for technologies and integration
     - X
 
@@ -118,6 +123,7 @@ The second objective of our project is to create a model that is able to predict
 
 ### Sherry
     - Point for repository management
+    - Co point for data visualization
     - Co point for integration
     - Co point for docs
     - SQUARE
