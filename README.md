@@ -73,8 +73,18 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 - TBA
 
-## ML Model (ADD HERE ABIR)
-
+## ML Model
+### Overview
+Our goal is to create both a supervised and unsupervised machine learning model to predict the results of the NYC mayoral elections. 
+### Supervised Learning
+We will use data from past elections to see whether our model can predict winner of previous elections using data such as:
+- Total amount of money fundraised
+- The occupations of those who donated
+- The industries that contributed the most
+- The amount of corporate donations each candidate received
+This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections. 
+### Unsupervised Learning
+The second objective of our project is to create a model that is able to predict the outcome of future elections using the same data. 
 
 ## Roles
 
