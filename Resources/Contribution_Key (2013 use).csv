@@ -1,0 +1,63 @@
+"NYC CAMPAIGN FINANCE BOARD SEARCHABLE DATABASE - KEY TO  
+CONTRIBUTION RESULTS REPORT 
+Format = CSV
+",,,
+,,,
+Column,Type,Name,Description
+1,Character,ELECTION,Election Cycle
+2,Character,OFFICECD,Office Sought: [1=Mayor; 2=Public Advocate; 3=Comptroller; 4=Borough President; 5=City Council; 6=Undeclared; IS=Independent Spender]
+3,Character,RECIPID,"Receipient ID, assigned by the CFB"
+4,Character,CANCLASS,"Campaign Finance Program Classification: [Participant, Non-Participant, Limited Participant, Undetermined]"
+5,Character,RECIPNAME,Recipient's Name
+6,Character,COMMITTEE,"Committee ID, assigned by the CFB"
+7,Numeric,FILING,Disclosure Statement Filing Period
+8,Character,SCHEDULE,Schedule: [ABC=Monetary Contributions; D=In-Kind Contributions; G=Transfers In; K=Loans/Liabilities Forgiven; M=Receipt Adjustments; N=Outstanding Liabilities; ICONT=Monetary Contributions; IEXPF=In-Kind (Bill Paid); IDISC=In-Kind (Vendor Discount); IREF=Refund]
+9,Numeric,PAGENO,Page Number of schedule on which information was reported (paper filings only)
+10,Numeric,SEQUENCENO,Sequence Number on page of schedule on which information was reported (paper filings only)
+11,Character,REFNO,Transaction Reference Number
+12,Date,DATE,Date Received
+13,Date,REFUNDDATE,Date of Refund/Loan forgiven
+14,Character,NAME,Contributor's Name
+15,Character,C_CODE,Contributor Type: [CAN=Candidate; CORP=Corporation; EMPO=Labor Union; FAM=Candidate's Family; IND=Individual; LLC=Limited Liability Company; OTHR=Other; PART=Partnership; PCOMC=Candidate Committee; PCOMP=Political Action Committee; PCOMZ=Party Committee; SPO=Candidate's Spouse; UNKN=Unknown]
+16,Character,STRNO,"Contributor's Street Number - If  C_CODE = IND, CAN, FAM or SPO, Then field = Blank "
+17,Character,STRNAME,"Contributor's Street Name - If  C_CODE = IND, CAN, FAM or SPO, Then field = Blank "
+18,Character,APARTMENT,"Contributor's Apartment Number - If  C_CODE = IND, CAN, FAM or SPO, Then field = Blank "
+19,Character,BOROUGHCD,Contributor's Borough Code: [K=Brooklyn; M=Manhattan; Q=Queens; S=Staten Island; X=Bronx; Z=Outside New York City]
+20,Character,CITY,"Contributor's City, Schedule N - Vendor's City"
+21,Character,STATE,"Contributor's State, Schedule N - Vendor's State"
+22,Character,ZIP,Contributor's Zip Code
+23,Character,OCCUPATION,Contributor's Occupation
+24,Character,EMPNAME,Contributor's Employer
+25,Character,EMPSTRNO,Contributor's Employer's Street Number
+26,Character,EMPSTRNAME,Contributor's Employer's Street Name
+27,Character,EMPCITY,Contributor's Employer's City
+28,Character,EMPSTATE,Contributor's Employer's State
+29,Numeric,AMNT,Amount
+30,Numeric,MATCHAMNT,Matchable Amount of Contribution
+31,Numeric,PREVAMNT,Total of Previous Contributions
+32,Numeric,PAY_METHOD,Method of Payment: [0=Unknown; 1=Cash; 2=Check; 3=Other; 4=Credit Card; 5=Money Order]
+33,Character,INTERMNO,"Intermediary Number, assigned by candidate"
+34,Character,INTERMNAME,Intermediary's Name (if any)  
+35,Character,INTSTRNO,"Intermediary's Street Number, assigned by candidate 
+If C_CODE = IND, CAN, FAM or SPO, Then field = Blank"
+36,Character,INTSTRNM,"Intermediary's Street Name  
+If C_CODE = IND, CAN, FAM or SPO, Then field = Blank"
+37,Character,INTAPTNO,"Intermediary's Apartment Number  
+If C_CODE = IND, CAN, FAM or SPO, Then field = Blank"
+38,Character,INTCITY,Intermediary's City
+39,Character,INTST,Intermediary's State
+40,Character,INTZIP,Intermediary's Zip Code
+41,Character,INTEMPNAME,Intermediary's Employer Name
+42,Character,INTEMPSTNO,Intermediary's Employer Street Number 
+43,Character,INTEMPSTNM,Intermediary's Employer Street Name
+44,Character,INTEMPCITY,Intermediary's Employer City 
+45,Character,INTEMPST,Intermediary's Employer State
+46,Character,INTOCCUPA,Intermediary's Occupation
+47,Character,PURPOSECD,Purpose Code (for Schedule D/In-Kind Contributions): [ADVAN=Advance Repayment; CMAIL=Campaign Mailings; CMISC=Campaign Miscellaneous; CNTRB=Political Contributions; COMPL=Compliance Cost; CONSL=Campaign Consultants; CONSV=Constituent Services; FUNDR=Fundraising; INTER=Interest Expenses; LITER=Campaign Literature; NQUAL=Non Qualified Expenditures; OFFCE=Office Expenses; OTHER=Other; PETIT=Petition Expenses; POLLS=Polling Costs; POSTA=Postage Expenses; PRINT=Printing Expenses; PROFL=Professional Services; RADIO=Radio Ads; RENTO=Office Rent; TVADS=Television Ads; UNKN=Unknown; VOTER=Voter Registration; WAGES=Campaign Workers Salaries]
+48,Character,EXEMPTCD,Exempt Code: [C=Compliance Costs; E=Previous Election Costs; P=Petition Challenges; S=Constituent Services; U=Unknown; Blank = Not Exempt]
+49,Character,ADJTYPECD,Schedule M /Adjustment Type Code: [0=Unknown; 1=Returned Check 2=Refund; 5=Other]
+50,Character,RR-IND,Runoff/Rerun Indicator
+51,Character,SEG-IND,Segregated Indicator
+52,Character,INT_C_CODE,Intermediary's Name Code
+,,,
+"Contributions include:  Schedule ABC (Monetary Contributions) + Schedule D (In-Kind Contributions) + Schedule G: Type 1 (Transfers In) + Schedule K:  Type 2 (Forgiven Loans) - Schedule M:  Types 1, 2, and 4 (Receipt Adjustments)",,,
