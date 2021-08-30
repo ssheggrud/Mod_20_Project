@@ -22,7 +22,7 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
  - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
 
- - A supervised categorical machine learning approach using TensorFlow which predicts election outcomes on categorical column attributes.
+ - Both supervised and unsupervised categorical machine learning approach using TensorFlow which predicts election outcomes on categorical column attributes.
 
  - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
 
