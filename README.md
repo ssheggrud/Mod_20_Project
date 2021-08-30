@@ -1,7 +1,7 @@
 # ELECTION RESULTS
 
 ## Overview
-The purpose of this project is to find out how money affects the outcome of elections. 
+The purpose of this project is to find out if/how money affects the outcome of elections. 
 
 This project aims to analyze the outcome of the 2021 mayoral election for New York City using data primarily from the New York City Campaign Finance Board's data repositories found here, https://www.nyccfb.info/, looking at 'Follow the Money NYC database for 'Candidate Contributions and 'Candidate Expenditures accross boroughs, districts, and types of donations or expenditures. 
 
@@ -37,25 +37,28 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 ## Data
 Datasets date back to 1989 occur every 4 years to present year 2021. 
 
-For starters: The datasets:
+**For starters: The datasets:**
 
 CandidateContributions:
 
         - COLUMNS: OCCUPATION	EMPNAME	EMPSTRNO	EMPSTRNAME	EMPCITY	EMPSTATE	AMNT	MATCHAMNT	PREVAMNT	PAY_METHOD	INTERMNO	INTERMNAME	INTSTRNO	INTSTRNM	INTAPTNO	INTCITY	INTST	INTZIP	INTEMPNAME	INTEMPSTNO	INTEMPSTNM	INTEMPCITY	INTEMPST	INTOCCUPA	PURPOSECD	EXEMPTCD	ADJTYPECD	RR_IND	SEG_IND	INT_C_CODE
 
-Draft Database Column Schema: 
+**Draft Database Column Schema: **
 
-
+Work in progress.
 
 CandidateExpenditures:
 
         - COLUMNS: ELECTION	OFFICECD	CANDID	CANCLASS	CANDLAST	CANDFIRST	CANDMI	COMMITTEE	FILING	SCHEDULE	PAGENO	SEQUENCENO	REFNO	INV_DATE	DATE	NAME	C_CODE	ORG_IND	STRNO	STRNAME	APARTMENT	CITY	STATE	ZIP	PAY_METHOD	AMNT	PURPOSECD	PURPOSE	EXPLAIN	EXEMPTCD	RR_IND	SEG_IND
 
 
-Draft Database Column Schema: 
+**Draft Database Column Schema: **
 
+Work in progress.
 
-Entity Relationship Diagram:
+**Entity Relationship Diagram:**
+
+Work in progress.
 
 ### ETL Process
 
