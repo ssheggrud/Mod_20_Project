@@ -1,0 +1,17 @@
+﻿Type,Name,Description
+Character,ELECTION,Election Cycle
+Character,OFFICECD,Office Sought: [1=Mayor; 2=Public Advocate; 3=Comptroller; 4=Borough President; 5=City Council; 6=Undeclared; IS=Independent Spender]
+Character,RECIPID,"Receipient ID, assigned by the CFB"
+Character,CANCLASS,"Campaign Finance Program Classification: [Participant, Non-Participant, Limited Participant, Undetermined]"
+Character,RECIPNAME,Recipient's Name
+Character,COMMITTEE,"Committee ID, assigned by the CFB"
+Date,DATE,Date Received
+Character,NAME,Contributor's Name
+Character,C_CODE,Contributor Type: [CAN=Candidate; CORP=Corporation; EMPO=Labor Union; FAM=Candidate's Family; IND=Individual; LLC=Limited Liability Company; OTHR=Other; PART=Partnership; PCOMC=Candidate Committee; PCOMP=Political Action Committee; PCOMZ=Party Committee; SPO=Candidate's Spouse; UNKN=Unknown]
+Character,CITY,"Contributor's City, Schedule N - Vendor's City"
+Character,STATE,"Contributor's State, Schedule N - Vendor's State"
+Character,ZIP,Contributor's Zip Code
+Character,OCCUPATION,Contributor's Occupation
+Character,EMPNAME,Contributor's Employer
+Numeric,AMNT,Amount
+Numeric,MATCHAMNT,Matchable Amount of Contribution

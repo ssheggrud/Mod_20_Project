@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>addon_slides_promo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="addon_slides_promo" fill-rule="nonzero">
+            <g transform="translate(4.000000, 4.000000)" id="grouped_shapes">
+                <g>
+                    <path d="M2,0 C1,0 0,1 0,1.984 L0,60 C0,60.982 1,62 2,62 L60,62 C61,62 62,61 62,60 L62,2 C62,1 61,0 60,0 L2,0 Z" id="bg_1_" fill="#F4B911"></path>
+                    <path d="M44,2 L44,4 C44,6.579 41.495,7.319 40,6 C37.538,3.828 34.165,5.047 34,9 C34.164,12.953 37.539,14.172 40,12 C41.496,10.68 44,11.42 44,14 L44,48 C44,50.58 46.504,51.32 48,50 C50.461,47.828 53.836,49.047 54,53 C53.835,56.953 50.462,58.172 48,56 C46.505,54.682 44,55.421 44,58 L44,60 L60,60 L60,2 L44,2 Z M57,32 L53,32 L53,36 L51,36 L51,32 L47,32 L47,30 L51,30 L51,26 L53,26 L53,30 L57,30 L57,32 Z" id="side_1_" fill="#FFFFFF"></path>
+                    <g id="slides_" transform="translate(6.000000, 16.000000)" fill="#FFFFFF">
+                        <g id="Group">
+                            <path d="M26.6666667,0 L3.31666667,0 C1.48333333,0 0,1.5 0,3.33333333 L0,26.6666667 C0,28.5 1.48333333,30 3.31666667,30 L26.6666667,30 C28.5,30 30,28.5 30,26.6666667 L30,3.33333333 C30,1.5 28.5,0 26.6666667,0 Z M27,22 L3,22 L3,8 L27,8 L27,22 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
