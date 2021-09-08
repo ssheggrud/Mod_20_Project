@@ -35,7 +35,8 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 - We have successfully identified roles for all the team members and have a good outline for our project.
 
 ## Week 2 Anticpated Achievements (Work in progress)
-  -  
+
+  -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
 
 
 ## Data
@@ -92,6 +93,7 @@ We will use data from past elections to see whether our model can predict winner
 This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections. 
 - The model will taken in features such as money raised, expenditures, and source of funds to a particular candidate to predict the total number of votes, and therefore winner, of a NYC mayoral election.
 - We aim to use a Random Forest Classifier algorithm for this model
+
 ## Roles
 
 ### Abir
