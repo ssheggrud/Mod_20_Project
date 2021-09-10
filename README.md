@@ -34,7 +34,7 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 - We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
 - We have successfully identified roles for all the team members and have a good outline for our project.
 
-## Week 2 Anticpated Achievements (Work in progress)
+## Week 2 Anticipated Achievements (Work in progress)
 
   -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
 
@@ -55,8 +55,7 @@ Work in progress.
 CandidateExpenditures:
 
         - COLUMNS: ELECTION	OFFICECD	CANDID	CANCLASS	CANDLAST	CANDFIRST	CANDMI	COMMITTEE	FILING	SCHEDULE	PAGENO	SEQUENCENO	REFNO	INV_DATE	DATE	NAME	C_CODE	ORG_IND	STRNO	STRNAME	APARTMENT	CITY	STATE	ZIP	PAY_METHOD	AMNT	PURPOSECD	PURPOSE	EXPLAIN	EXEMPTCD	RR_IND	SEG_IND
-
-
+        
 **Draft Database Column Schema: **
 
 Work in progress.
@@ -68,18 +67,29 @@ Work in progress.
 ### ETL Process
 
 The steps taken to extract, transform, and load the data for analysis are as follows:
+ETL Process
+The steps taken to extract, transform, and load the data for analysis are as follows:
+•	From the New York City Campaign Finance Board webpage download the previous six election years from 2001,2003,2005,2009,2013,2017, and the current 2021 data sets that contain individual and committee donation contributions per candidate as separate CSVs.
 
-- Choose the optimal spreadset to analyze, then download in .csv format
+•	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board. 
 
-- Observe in Excel which columns to keep and which to drop in Notebook, and out of which to keep, which to join together (some columns observed were for the same type but split across different categories, e.g. NAME, EMPNAME, INTERMNAME, and INTEMPNAME.)
+•	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. 
 
-- Clean data of stray marks, unnecessary prefixes/suffixes, and other imperfections to ensure smooth, error-free processing.
+•	Create a RDS and S3 within Amazon Web Services to store the following data sets and share publicly with team.
 
-- use dummies for desired string values, e.g. for donor's profession and recipient candidate.
+![Screenshot (118)](https://user-images.githubusercontent.com/81484054/132890400-b199f695-83da-4471-b0d1-9badb392497b.png)
 
-- Perform SMOTEENN analysis and generate associated figures (balanced accuracy score, confusion matrix, and classification report)
+•	Upload each election year csv for individual donations, committee donations, and candidate expenditures within Google Colab.
 
-- TBA
+•	Perform Pyspark functions of reading CSVs in data frames, dropping columns, changing data types, changing column names, converting the value names within each column, filter the data frames to display only the mayor elections and participants within the mayor election year, create a total sum column that’s added by the donation amount, candidate match amount, and previous donation amount
+
+•	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV
+
+•	Export the clean data frame tables to connect with the RDS server and Postgres SQL.
+
+•	Create the following tables of ________ from our control table to further transform our data frames for visual use and Machine Learning testing
+
+•	Further joined the following tables for ___ use
 
 ## ML Model
 ### Overview
