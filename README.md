@@ -40,7 +40,16 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
 
 ## Data
-Datasets date back to 1989 occur every 4 years to present year 2021. 
+Datasets date back from 2001 to present year 2021. 
+
+**Data Resources:**
+
+https://www.nyccfb.info/follow-the-money/data-library/
+
+Please see the following screen shot that shows the home page of where our data files were stored before ETL
+
+![Screenshot (119)](https://user-images.githubusercontent.com/81484054/132953388-e322ee90-fc3c-4f4c-9e1b-708fa13c51a2.png)
+
 
 **For starters: The datasets:**
 
@@ -90,6 +99,15 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 •	Create the following tables of ________ from our control table to further transform our data frames for visual use and Machine Learning testing
 
 •	Further joined the following tables for ___ use
+
+**Pre ETL of the raw campaign data**
+
+![Screenshot (121)](https://user-images.githubusercontent.com/81484054/132953447-5b6d9b48-aa2b-4e56-b8d6-6d71de150035.png)
+
+**Post ETL of the cleaned campaign data**
+
+![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
+
 
 ## ML Model
 ### Overview
