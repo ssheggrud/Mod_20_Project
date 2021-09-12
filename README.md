@@ -132,7 +132,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
 
-![image](https://user-images.githubusercontent.com/82654977/132998787-87c53808-1e8e-4959-b4c7-315d0d264807.png)
 
 
 ## ML Model
