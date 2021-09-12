@@ -26,6 +26,30 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 
  - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
 
+## Dasboard
+We have used Tableau to create insightful &  vizualizations!
+
+Here's the link to Tableau Public site: 
+https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_16312857232880/Story1?publish=yes
+
+- We can filter by election year and candidate names to view selective data on the dashboard. You can select one candidate on the top most graph and map and quaterly donations graphs would reflect data for the selected candidate as shown in the below picture.
+
+![image](https://user-images.githubusercontent.com/82654977/132999692-5986f3c1-1415-45a0-8fb2-836582309580.png)
+
+- Map shows the areas in USA from where donations came from for all Mayor candidates. You can select a colored area and it will show you the zip code and the total amount of contribution received from that zip code.
+
+![image](https://user-images.githubusercontent.com/82654977/132999772-4551f60b-48fb-4e95-b17f-26029b0c376b.png)
+
+- You can view the top four candidates by percent of individual contributions. A hover action has been added to the dashboard to make it interactive.
+
+![image](https://user-images.githubusercontent.com/82654977/132999846-cd9b53ca-ea19-4882-897e-b725143bf65e.png)
+
+- Story board is in progress.
+
+![image](https://user-images.githubusercontent.com/82654977/132999083-afd84f0e-8db5-4a07-b8ea-225d311e109f.png)
+![image](https://user-images.githubusercontent.com/82654977/132999172-173b89e0-9895-4e2d-8ac2-21ce200a7f07.png)
+
+
 ## Week 1 Achievements
 
 - We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates. 
@@ -34,10 +58,10 @@ AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
 - We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
 - We have successfully identified roles for all the team members and have a good outline for our project.
 
-## Week 2 Anticipated Achievements (Work in progress)
+## Week 2 Achievements
 
-  -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
-
+ -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
+ - We have started working on the data vizualization piece of the project.
 
 ## Data
 Datasets date back from 2001 to present year 2021. 
@@ -107,6 +131,8 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 **Post ETL of the cleaned campaign data**
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
+
+![image](https://user-images.githubusercontent.com/82654977/132998787-87c53808-1e8e-4959-b4c7-315d0d264807.png)
 
 
 ## ML Model
