@@ -21,7 +21,7 @@ Anybody who would want to learn about money’s role in New York City’s Mayor 
 
 What are our vizualizations going to tell us?
 
-We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions as well as expediture data in order to get a full picture. 
+We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions, expediture data as well as total votes received by the top two candidates in order to get a full picture. 
 
 How do we add interactive elements to our dashboard?
 
