@@ -8,7 +8,6 @@ In attempt to find correlation across money donated, money expended, and overall
 ## Questions
 - What is the relationship between the quantity of campaign finance donations and electoral results?
 - Will a donation sum from a particular occupation or industry have an impact on a given candidate’s election result?
-- 
 
 ## Technologies
 
@@ -16,7 +15,7 @@ AMAZON RDS, AMAZON S3, JAVASCRIPT TABLEAU API, HTML, PANDAS, PG SQL, PLOTLY, PYT
 
 ## Features to be Implemented
 
- - A pandas data parser to edit data into database entry format.
+ - A Pyspark data parser on Google Colab to edit data into database entry format.
 
  - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
 
