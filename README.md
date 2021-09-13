@@ -3,18 +3,16 @@
 ## Overview
 The purpose of this project is to find out if/how money affects the outcome of elections. 
 
-This project aims to analyze the outcome of the 2021 mayoral election for New York City using data primarily from the New York City Campaign Finance Board's data repositories found here, https://www.nyccfb.info/follow-the-money/cunymap-2021 accross boroughs, districts, and types of donations or expenditures. 
-
 In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding. 
 
 ## Questions
 - Will a donation sum amount have any relationship to a candidate’s election result?
 - Will a donation sum from a particular occupation or industry have a relationship to a candidate’s election result?
+- 
 
 ## Technologies
 
-AMAZON RDS, JAVASCRIPT, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW...
-
+AMAZON RDS, AMAZON S3, JAVASCRIPT TABLEAU API, HTML, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW, PYSPARK, GOOGLE COLAB, 
 
 ## Features to be Implemented
 
@@ -62,6 +60,7 @@ https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_163128
 
  -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
  - We have started working on the data vizualization piece of the project.
+ - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
 
 ## Data
 Datasets date back from 2001 to present year 2021. 
@@ -73,25 +72,6 @@ https://www.nyccfb.info/follow-the-money/data-library/
 Please see the following screen shot that shows the home page of where our data files were stored before ETL
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/81484054/132953388-e322ee90-fc3c-4f4c-9e1b-708fa13c51a2.png)
-
-
-**For starters: The datasets:**
-
-CandidateContributions:
-
-        - COLUMNS: OCCUPATION	EMPNAME	EMPSTRNO	EMPSTRNAME	EMPCITY	EMPSTATE	AMNT	MATCHAMNT	PREVAMNT	PAY_METHOD	INTERMNO	INTERMNAME	INTSTRNO	INTSTRNM	INTAPTNO	INTCITY	INTST	INTZIP	INTEMPNAME	INTEMPSTNO	INTEMPSTNM	INTEMPCITY	INTEMPST	INTOCCUPA	PURPOSECD	EXEMPTCD	ADJTYPECD	RR_IND	SEG_IND	INT_C_CODE
-
-**Draft Database Column Schema: **
-
-Work in progress.
-
-CandidateExpenditures:
-
-        - COLUMNS: ELECTION	OFFICECD	CANDID	CANCLASS	CANDLAST	CANDFIRST	CANDMI	COMMITTEE	FILING	SCHEDULE	PAGENO	SEQUENCENO	REFNO	INV_DATE	DATE	NAME	C_CODE	ORG_IND	STRNO	STRNAME	APARTMENT	CITY	STATE	ZIP	PAY_METHOD	AMNT	PURPOSECD	PURPOSE	EXPLAIN	EXEMPTCD	RR_IND	SEG_IND
-        
-**Draft Database Column Schema: **
-
-Work in progress.
 
 **Entity Relationship Diagram:**
 
