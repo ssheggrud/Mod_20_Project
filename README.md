@@ -79,8 +79,7 @@ Work in progress.
 ### ETL Process
 
 The steps taken to extract, transform, and load the data for analysis are as follows:
-ETL Process
-The steps taken to extract, transform, and load the data for analysis are as follows:
+
 •	From the New York City Campaign Finance Board webpage download the previous six election years from 2001,2003,2005,2009,2013,2017, and the current 2021 data sets that contain individual and committee donation contributions per candidate as separate CSVs.
 
 •	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board. 
@@ -110,8 +109,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 **Post ETL of the cleaned campaign data**
 
 ![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
-
-
 
 ## ML Model
 ### Overview
