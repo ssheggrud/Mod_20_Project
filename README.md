@@ -45,20 +45,20 @@ https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_163128
 
 Who is our Target Audience?
 
-Anybody who would want to learn about money’s role in New York City’s Mayor election results. They can see if there’s an impact of contributions and expenditures on a candidate’s performance. 
+Anybody who would want to learn about money’s role in New York City’s Mayor election results. They can see if there’s an impact of contributions and expenditures on a candidate’s performance.
 
 What are our vizualizations going to tell us?
 
-We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions as well as expediture data in order to get a full picture. 
+We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions as well as expediture data in order to get a full picture.
 
 How do we add interactive elements to our dashboard?
 
-- Dashboard 1 : 
+- Dashboard 1 :
     - The first source of filter is the election year. Default year selected is 2017 as of now.
     - There is a Candidate Name mutiple selection dropdown filter in place to see joint data of candidates. Only relevant values will be shown in this dropdown.
     - There is a graph that shows how many contributions came in for each of the candidates. Here candidate name can be selected to see data change in the map and quaterly contribution graphs.
     - Map is color coded to better identify which zip codes had higher contributions.
-- Dashboard 2: 
+- Dashboard 2:
     - It shows the top four candidates qualified by percentage contributions received. Highlight Hover action has been created on this page to add better visual effects on the page.
 
 
@@ -145,10 +145,10 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
 
 **ERD OUTLINE**
-![ERD OUTLINE](./ERD/ERD\ Outline.png)
+![ERD OUTLINE](./ERD/ERDOutline.png)
 
 **ERD CURRENT TABLES**
-![ERD CURRENT TABLES](./ERD/ERD\ Current\ Tables.png)
+![ERD CURRENT TABLES](./ERD/ERDCurrentTables.png)
 
 
 ## ML Model
