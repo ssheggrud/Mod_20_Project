@@ -109,6 +109,9 @@ Please see the following screen shot that shows the home page of where our data 
 
 **Entity Relationship Diagram:**
 
+![ERDOUTLINE] (./ERD/ERDOutline.png)
+![ERDCURRENTTABLES] (./ERD/ERDCurrentTables.png)
+
 Work in progress.
 
 ### ETL Process
@@ -148,9 +151,13 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![ERD OUTLINE](./ERD/ERDOutline.png)
 
 **ERD CURRENT TABLES**
+<<<<<<< HEAD
 ![ERD CURRENT TABLES](./ERD/ERDCurrentTables.png)
 
 
+=======
+![ERD CURRENT TABLES](./ERD/ERD\ Current\ Tables.png)
+>>>>>>> 71672d745872784636bf8b458472e6d0f355ce18
 ## ML Model
 ### Overview
 Our goal is to create a supervised machine learning model to predict the results of the NYC mayoral elections.
@@ -162,8 +169,34 @@ We will use data from past elections to see whether our model can predict winner
 - The amount of corporate donations each candidate received
 This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections.
 - The model will taken in features such as money raised, expenditures, and source of funds to a particular candidate to predict the total number of votes, and therefore winner, of a NYC mayoral election.
-- We aim to use a Random Forest Classifier algorithm for this model
+- We are using a K-nearest neighbor model to process our data.
 
+### Week 2: Data Preprocessing
+- All necessary modules were imported. The primary libraries used in this model were sklearn, Pandas, path, and NumPy.
+- The CSV files used in this model were sourced from the NYC campaign finance board's website. All campaign donation and expenditure data is publicly available on this website. The data was further cleaned by group members responsible for the database portion of this project.
+- The dataset was read into a Jupyter notebook using a Pandas dataframe. All null/NaN values were dropped from the dataset in order to prevent any errors.
+### Week 2: Feature Engineering
+- The dataset contained several columns that are useful during the visualization portion of this project but bear no real value to the machine learning model. These columns were dropped prior to being fed into the ML model to prevent any unneccessary noise.
+- The X features of our model are as follows:
+- - Candidate Name
+- - Date of donation
+- - Contributer Type (individual, corporate, PAC, etc.)
+- - City where the donation originates from
+- - State where the donation originates from
+- - Zip code where the donation originates from
+- - Initial donation amount
+- - Matched donation amount
+- - Previous donation amount
+- - Total donation amount
+- - Total expenditures by the candidate
+-  The Y value for the model was the outcome of the election, as this model is analyzing only previous elections, the outcomes to which are available.
+-  These features were chosen as prior literature indicates that these factors are amongst the most consequential when it comes to election outcomes. Other features, such as advertising data, was excluded from this dataset due to their lack of easy availability and trying to incorporate such data into this model would be too difficult given the timeframe of this project.
+### Week 2: Training and Test Split/ML model
+- Once the dataset was cleaned, we encoded it using sklearn's label encoder
+- The training and testing split was 80/20, with 80 percent being training data and 20 percent being testing data. This split was chosen as several prior election analysis ML models suggested doing so due to the large size of these datasets.
+- We used sklearn's K-nearest neighbor model to fit and predict our data. This model was chosen due to it being fairly accurate for these types of predictions and the interpretability factor. KNN models are easy to analyze once they are graphed and therefore can be explained easily to the laymen. However, there are limitations to this model, as its accuracy depends on the size of the data and irrelevant features may skew the data.
+- At the present, we have only tested the model out on the funds raised and outcomes of the 2017 NYC mayoral election. Thus far the model is capable of predicting the data with 90% accuracy, although it should be noted that the dataset was deliberately small as this model at the present is only for testing purposes. Furthermore, this election was not considered competitive and many factors outside of the features used were likely the cause of the outcome.
+- A rudimentary version of the model can be found in the MLScripts folder of the repository.
 ## Roles
 
 ### Abir
