@@ -1,0 +1,24 @@
+,Election,CandidateID,CandidateName,Date,Name,ContributerType,BoroughName,City,State,ZipCode,ContributionState,Amount,MatchAmt,PrevAmt,PayMethod,TotalAmount
+0,2021,1160,"Diaz Jr., Ruben",2018-05-03,Cozen O'Connor PAC,Political Action Committee,Other,Philadelphia,PA,19103,,1000.0,0.0,0.0,Check,1000.0
+1,2021,1160,"Diaz Jr., Ruben",2018-05-03,D&M PAC,Political Action Committee,Manhattan,New York,NY,10158,,500.0,0.0,0.0,Check,500.0
+2,2021,1160,"Diaz Jr., Ruben",2019-07-10,D&M PAC,Political Action Committee,Manhattan,New York,NY,10158,,500.0,0.0,500.0,Check,1000.0
+3,2021,1160,"Diaz Jr., Ruben",2019-10-26,EISPAC,Political Action Committee,Manhattan,New York,NY,10017,,500.0,0.0,0.0,Check,500.0
+4,2021,1160,"Diaz Jr., Ruben",2019-07-09,Federal Express NYS PAC,Political Action Committee,Other,Memphis,TN,38120,,1000.0,0.0,0.0,Check,1000.0
+5,2021,1160,"Diaz Jr., Ruben",2018-05-21,JPMorgan Chase & Co. PAC,Political Action Committee,Other,Washington,DC,20004,,1000.0,0.0,0.0,Check,1000.0
+6,2021,1160,"Diaz Jr., Ruben",2018-05-30,New Yorkers for Putting Studen,Political Action Committee,Manhattan,New York,NY,10001,,2500.0,0.0,0.0,Check,2500.0
+7,2021,1160,"Diaz Jr., Ruben",2019-06-14,New Yorkers for Putting Studen,Political Action Committee,Manhattan,New York,NY,10001,,1000.0,0.0,2500.0,Check,3500.0
+8,2021,1160,"Diaz Jr., Ruben",2018-05-09,NYC District Council of Carpen,Political Action Committee,Manhattan,New York,NY,10014,,1000.0,0.0,0.0,Check,1000.0
+9,2021,1160,"Diaz Jr., Ruben",2018-06-26,Oilheat PAC,Political Action Committee,Manhattan,New York,NY,10122,,1000.0,0.0,0.0,Check,1000.0
+10,2021,1160,"Diaz Jr., Ruben",2018-05-08,Plumbers Local Union 1 NYC PAC,Political Action Committee,Other,Long Island City,NY,11101,,1000.0,0.0,0.0,Check,1000.0
+11,2021,1160,"Diaz Jr., Ruben",2018-10-26,RPAC of New York State,Political Action Committee,Other,Albany,NY,12210,,500.0,0.0,0.0,Check,500.0
+12,2021,1160,"Diaz Jr., Ruben",2019-10-26,RPAC of New York State,Political Action Committee,Other,Albany,NY,12210,,500.0,0.0,500.0,Check,1000.0
+13,2021,1160,"Diaz Jr., Ruben",2018-05-17,Speaker Heastie PAC,Political Action Committee,Other,New Rochelle,NY,10805,,4784.5,0.0,0.0,Check,4784.5
+14,2021,1160,"Diaz Jr., Ruben",2019-10-26,Steamfitters Local 638 PAC,Political Action Committee,Queens,Long Island City,NY,11101,,250.0,0.0,0.0,Check,250.0
+15,2021,1160,"Diaz Jr., Ruben",2018-05-03,Taxpayers for an Affordable Ne,Political Action Committee,Manhattan,New York,NY,10022,,1000.0,0.0,0.0,Check,1000.0
+16,2021,1160,"Diaz Jr., Ruben",2018-06-08,Taxpayers for an Affordable Ne,Political Action Committee,Manhattan,New York,NY,10022,,1000.0,0.0,1000.0,Check,2000.0
+17,2021,1160,"Diaz Jr., Ruben",2019-06-02,Taxpayers for an Affordable Ne,Political Action Committee,Manhattan,New York,NY,10022,,1000.0,0.0,2000.0,Check,3000.0
+18,2021,1160,"Diaz Jr., Ruben",2018-07-09,Tempo 802,Political Action Committee,Manhattan,New York,NY,10036,,500.0,0.0,0.0,Check,500.0
+19,2021,1160,"Diaz Jr., Ruben",2018-05-03,Uniformed Fire Officers,Political Action Committee,Manhattan,New york city,NY,10038,,500.0,0.0,0.0,Check,500.0
+20,2021,1160,"Diaz Jr., Ruben",2018-05-01,Uniformed Firefighters Associa,Political Action Committee,Manhattan,New York,NY,10010,,1000.0,0.0,0.0,Check,1000.0
+21,2021,1160,"Diaz Jr., Ruben",2019-10-31,Uniformed Firefighters Associa,Political Action Committee,Manhattan,New York,NY,10010,,500.0,0.0,1000.0,Check,1500.0
+22,2021,1160,"Diaz Jr., Ruben",2018-06-04,WM NY PAC,Political Action Committee,Other,Washington,DC,20004,,2500.0,0.0,0.0,Check,2500.0

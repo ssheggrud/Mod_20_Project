@@ -1,0 +1,19 @@
+/*body {
+    font-family: 'cursive', sans-serif !important;
+    color: #990099aa;
+  }*/
+
+  .jumbotron {
+    background-image: url("../images/image.png");
+    background-size: 100% 100%;
+    text-align: center;
+    font-family: 'cursive', sans-serif !important;
+    color: #990099aa;
+  }
+
+  .font { font-family: 'Times New Roman', Times, serif;font-size:14px; }
+
+  .info {font-family: 'Times New Roman';font-size:12px;font-weight: 900;}
+  
+
+  
