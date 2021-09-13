@@ -187,6 +187,7 @@ This data is available to the public and can be found on the New York City Campa
 - The training and testing split was 80/20, with 80 percent being training data and 20 percent being testing data. This split was chosen as several prior election analysis ML models suggested doing so due to the large size of these datasets. 
 - We used sklearn's K-nearest neighbor model to fit and predict our data. This model was chosen due to it being fairly accurate for these types of predictions and the interpretability factor. KNN models are easy to analyze once they are graphed and therefore can be explained easily to the laymen. However, there are limitations to this model, as its accuracy depends on the size of the data and irrelevant features may skew the data.
 - At the present, we have only tested the model out on the funds raised and outcomes of the 2017 NYC mayoral election. Thus far the model is capable of predicting the data with 90% accuracy, although it should be noted that the dataset was deliberately small as this model at the present is only for testing purposes. Furthermore, this election was not considered competitive and many factors outside of the features used were likely the cause of the outcome.
+- A rudimentary version of the model can be found in the MLScripts folder of the repository.
 ## Roles
 
 ### Abir
