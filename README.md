@@ -6,8 +6,7 @@ The purpose of this project is to find out if/how money affects the outcome of e
 In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding.
 
 ## Questions
-- What is the relationship between the quantity of campaign finance donations and electoral results?
-- Will a donation sum from a particular occupation or industry have an impact on a given candidate’s election result?
+- How much financial data play a role in Mayor candidate election outcome. 
 
 ## Technologies
 
@@ -94,6 +93,8 @@ How do we add interactive elements to our dashboard?
  - We have come up with few dashboards and a storyboard in Tableau.
  - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
  - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
+ - Static table, join script and other DB scripts were added to the DBScripts folder.
+ - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
 
 ## Data
 Datasets date back from 2001 to present year 2021.
@@ -150,7 +151,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![ERD OUTLINE](./ERD/ERDOutline.png)
 
 **ERD CURRENT TABLES**
-<<<<<<< HEAD
 ![ERD CURRENT TABLES](./ERD/ERDCurrentTables.png)
 
 
