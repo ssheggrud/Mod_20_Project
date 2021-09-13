@@ -155,9 +155,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![ERD CURRENT TABLES](./ERD/ERDCurrentTables.png)
 
 
-=======
-![ERD CURRENT TABLES](./ERD/ERD\ Current\ Tables.png)
->>>>>>> 71672d745872784636bf8b458472e6d0f355ce18
 ## ML Model
 ### Overview
 Our goal is to create a supervised machine learning model to predict the results of the NYC mayoral elections.
