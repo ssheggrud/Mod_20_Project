@@ -136,9 +136,9 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Export the clean data frame tables to connect with the RDS server and Postgres SQL.
 
-•	Create the following tables of ________ from our control table to further transform our data frames for visual use and Machine Learning testing
+•	Create the join on committees and individual tables to prepare for machine learning.
 
-•	Further joined the following tables for ___ use
+•	Determining columns necessary for ML
 
 **Pre ETL of the raw campaign data**
 
