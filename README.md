@@ -84,7 +84,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board. 
 
-•	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. 
+•	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. (All Raw CSVs can be found within **Resources** > **Raw CSVs** Folder) 
 
 •	Create a RDS and S3 within Amazon Web Services to store the following data sets and share publicly with team.
 
@@ -94,7 +94,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Perform Pyspark functions of reading CSVs in data frames, dropping columns, changing data types, changing column names, converting the value names within each column, filter the data frames to display only the mayor elections and participants within the mayor election year, create a total sum column that’s added by the donation amount, candidate match amount, and previous donation amount
 
-•	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV
+•	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV (Transformed dataframes into new CSVs can be found in **Resources > Clean CSVs as of Sept 11**)
 
 •	Export the clean data frame tables to connect with the RDS server and Postgres SQL.
 
