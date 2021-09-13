@@ -6,8 +6,8 @@ The purpose of this project is to find out if/how money affects the outcome of e
 In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding. 
 
 ## Questions
-- Will a donation sum amount have any relationship to a candidate’s election result?
-- Will a donation sum from a particular occupation or industry have a relationship to a candidate’s election result?
+- What is the relationship between the quantity of campaign finance donations and electoral results?
+- Will a donation sum from a particular occupation or industry have an impact on a given candidate’s election result?
 - 
 
 ## Technologies
