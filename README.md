@@ -23,12 +23,46 @@ AMAZON RDS, AMAZON S3, JAVASCRIPT TABLEAU API, HTML, PANDAS, PG SQL, PLOTLY, PYT
 
  - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions.
 
-## Dasboard
-We have used Tableau to create insightful &  vizualizations!
+## Dashboard
+Tools used:
+1. Tableau Public
+2. Tableau Javascipt API
 
+Description:
+We are using Tableau to build our dashboard and story line. We are also going to make a webpage and use javascript API for tableau to link this page to our Tableau visualizations to make the page more cleaner. That page will have a placeholder to display results from our Machine Learning model as well.
+
+Refer the link below for the details on how we plan to use Javascript API:
+
+https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm
+
+Refer to the below link to access our tableau dashboard:
+
+<<<<<<< HEAD
 Here's the link to Tableau Public site:
+=======
+>>>>>>> 5ef9952b1b471cb0f65aca19274401b2fe1d9f82
 https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_16312857232880/Story1?publish=yes
 
+Who is our Target Audience?
+
+Anybody who would want to learn about money’s role in New York City’s Mayor election results. They can see if there’s an impact of contributions and expenditures on a candidate’s performance. 
+
+What are our vizualizations going to tell us?
+
+We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions as well as expediture data in order to get a full picture. 
+
+How do we add interactive elements to our dashboard?
+
+- Dashboard 1 : 
+    - The first source of filter is the election year. Default year selected is 2017 as of now.
+    - There is a Candidate Name mutiple selection dropdown filter in place to see joint data of candidates. Only relevant values will be shown in this dropdown.
+    - There is a graph that shows how many contributions came in for each of the candidates. Here candidate name can be selected to see data change in the map and quaterly contribution graphs.
+    - Map is color coded to better identify which zip codes had higher contributions.
+- Dashboard 2: 
+    - It shows the top four candidates qualified by percentage contributions received. Highlight Hover action has been created on this page to add better visual effects on the page.
+
+
+**Features**
 - We can filter by election year and candidate names to view selective data on the dashboard. You can select one candidate on the top most graph and map and quaterly donations graphs would reflect data for the selected candidate as shown in the below picture.
 
 ![image](https://user-images.githubusercontent.com/82654977/132999692-5986f3c1-1415-45a0-8fb2-836582309580.png)
@@ -57,8 +91,9 @@ https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_163128
 
 ## Week 2 Achievements
 
- -  We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
- - We have started working on the data vizualization piece of the project.
+ - We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
+ - We have come up with few dashboards and a storyboard in Tableau.
+ - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
  - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
 
 ## Data
