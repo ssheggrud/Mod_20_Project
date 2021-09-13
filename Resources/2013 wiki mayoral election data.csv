@@ -1,0 +1,50 @@
+PARTY,CANDIDATE,VOTES,PERCENTILE,RACE_TYPE,,,
+DEMOCRAT,"DE BLASIO, BILL","795,679",73.15%,PRIMARY,,,
+REPUBLICAN,,,,,,,
+Party,,Candidate,Votes,%,±%,,
+,Republican,Joe Lhota,"236,212",21.72%,-16.00%,,
+,Conservative,Joe Lhota,"24,888",2.29%,0.70%,,
+,Taxes 2 High,Joe Lhota,"2,500",0.23%,N/A,,
+,Students First,Joe Lhota,820,0.08%,N/A,,
+,Total,Joe Lhota,"264,420",24.31%,-26.40%,,
+,,,,,,,
+,Independence,Adolfo Carrion,"8,675",0.80%,-12.20%,,
+,Green,Anthony Gronowicz,"4,983",0.46%,-0.30%,,
+,,,,,,,
+,Jobs & Education,Jack Hidary,"2,922",0.27%,N/A,,
+,Common Sense,Jack Hidary,718,0.07%,N/A,,
+,Total,Jack Hidary,"3,640",0.33%,N/A,,
+,,,,,,,
+,Rent Is Too Damn High,Jimmy McMillan,"1,990",0.18%,0.00%,,
+,School Choice,Erick Salgado,"1,946",0.18%,N/A,,
+,Libertarian,Michael Sanchez,"1,746",0.16%,0.10%,,
+,Socialist Workers,Dan Fein,758,0.07%,0.00%,,
+,Tax Wall Street,Randy Credico,690,0.06%,N/A,,
+,Freedom Party,Michael K. Greys,575,0.05%,N/A,,
+,Reform Party,Carl Person,306,0.03%,N/A,,
+,Affordable Tomorrow,Joseph Melaragno,289,0.03%,N/A,,
+,War Veterans,Sam Sloan,166,0.02%,,,
+,Flourish Every Person,Michael J. Dilger,55,0.01%,N/A,,
+,Write-in,,"1,792",0.16%,N/A,,
+Total votes,,,"1,087,710",100.00%,N/A,,
+,Democratic gain from Independent,,Swing,53.20%,,,
+,,,,,,,
+General election,,,,,,,
+,,Manhattan,The Bronx,Brooklyn,Queens,Staten Island,Total
+Democratic-Working Families,Bill de Blasio,"195,317 (71.69%)","121,511 (86.08%)","263,823 (77.52%)","181,921 (70.28%)","33,107 (44.20%)","795,679 (73.15%)"
+Republican-Conservative-etc,Joe Lhota,"69,434 (25.48%)","15,559 (11.02%)","68,543 (20.14%)","71,306 (27.55%)","39,538 (52.79%)","264,420 (24.31%)"
+Independence,Adolfo Carrión Jr.,"2,161 (0.79%)","2,595 (1.84%)","1,463 (0.43%)","1,754 (0.68%)",702 (0.94%),"8,675 (0.80%)"
+Green,Anthony Gronowicz,"1,655 (0.61%)",324 (0.23%),"1,507 (0.44%)","1,177 (0.45%)",320 (0.43%),"4,983 (0.46%)"
+Jobs & Education-Common Sense,Jack Hidary,"1,081 (0.40%)",151 (0.11%),"1,630 (0.48%)",541 (0.21%),237 (0.32%),"3,640 (0.33%)"
+Rent Is Too Damn High,Jimmy McMillan,579 (0.21%),154 (0.11%),608 (0.18%),480 (0.19%),169 (0.23%),"1,990 (0.18%)"
+School Choice,Erick Salgado,267 (0.10%),342 (0.24%),932 (0.27%),324 (0.13%),81 (0.11%),"1,946 (0.18%)"
+Libertarian,Michael Sanchez,446 (0.16%),128 (0.09%),485 (0.14%),449 (0.17%),238 (0.32%),"1,746 (0.16%)"
+Socialist Workers,Daniel B. Fein,230 (0.08%),59 (0.04%),253 (0.07%),177 (0.07%),39 (0.05%),758 (0.07%)
+Tax Wall Street,Randy Credico,317 (0.12%),47 (0.03%),155 (0.05%),128 (0.05%),43 (0.06%),690 (0.06%)
+Freedom Party,Michael K. Greys,161 (0.06%),65 (0.05%),241 (0.07%),89 (0.03%),19 (0.03%),575 (0.05%)
+Reform Party,Carl E. Person,86 (0.03%),20 (0.01%),85 (0.02%),83 (0.03%),32 (0.04%),306 (0.03%)
+Affordable Tomorrow,Joseph Melaragno,55 (0.02%),26 (0.02%),92 (0.03%),85 (0.03%),31 (0.04%),289 (0.03%)
+War Veterans,Sam Sloan,19 (0.01%),23 (0.02%),44 (0.01%),43 (0.02%),37 (0.05%),166 (0.02%)
+Flourish Every Person,Michael J. Dilger,12 (0.00%),4 (0.00%),29 (0.01%),4 (0.00%),6 (0.01%),55 (0.01%)
+N/A,Write-ins,639 (0.23%),149 (0.11%),440 (0.13%),304 (0.12%),300 (0.40%),"1,792 (0.16%)"
+,Total,"272,459 (25.05%)","141,157 (12.98%)","340,330 (31.29%)","258,865 (23.80%)","74,899 (6.89%)","1,087,710 (100.00%)"
