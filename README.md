@@ -1,9 +1,9 @@
 # ELECTION RESULTS
 
 ## Overview
-The purpose of this project is to find out if/how money affects the outcome of elections. 
+The purpose of this project is to find out if/how money affects the outcome of elections.
 
-In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding. 
+In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding.
 
 ## Questions
 - What is the relationship between the quantity of campaign finance donations and electoral results?
@@ -11,22 +11,22 @@ In attempt to find correlation across money donated, money expended, and overall
 
 ## Technologies
 
-AMAZON RDS, AMAZON S3, JAVASCRIPT TABLEAU API, HTML, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW, PYSPARK, GOOGLE COLAB, 
+AMAZON RDS, AMAZON S3, JAVASCRIPT TABLEAU API, HTML, PANDAS, PG SQL, PLOTLY, PYTHON3, TABLEAU, TENSORFLOW, PYSPARK, GOOGLE COLAB,
 
 ## Features to be Implemented
 
  - A Pyspark data parser on Google Colab to edit data into database entry format.
 
- - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model. 
+ - An Amazon Relational Database Service to host a PostgreSQL instance which will serve as a data repository, and a start and end point for the machine learning model.
 
  - Supervised categorical machine learning approach using TensorFlow which predicts election outcomes on categorical column attributes.
 
- - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions. 
+ - Dashboard composition with Tableau and Plotly composed with distribution of data, outliers, trends, hypotheses, predictions and conclusions.
 
 ## Dasboard
 We have used Tableau to create insightful &  vizualizations!
 
-Here's the link to Tableau Public site: 
+Here's the link to Tableau Public site:
 https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_16312857232880/Story1?publish=yes
 
 - We can filter by election year and candidate names to view selective data on the dashboard. You can select one candidate on the top most graph and map and quaterly donations graphs would reflect data for the selected candidate as shown in the below picture.
@@ -49,7 +49,7 @@ https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_163128
 
 ## Week 1 Achievements
 
-- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates. 
+- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates.
 - Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
 - At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add each years election results manually to a manually sourced excel as as individual column. We will name this column "Won/Elected".
 - We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
@@ -62,7 +62,7 @@ https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_163128
  - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
 
 ## Data
-Datasets date back from 2001 to present year 2021. 
+Datasets date back from 2001 to present year 2021.
 
 **Data Resources:**
 
@@ -82,9 +82,9 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	From the New York City Campaign Finance Board webpage download the previous six election years from 2001,2003,2005,2009,2013,2017, and the current 2021 data sets that contain individual and committee donation contributions per candidate as separate CSVs.
 
-•	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board. 
+•	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board.
 
-•	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. (All Raw CSVs can be found within **Resources** > **Raw CSVs** Folder) 
+•	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. (All Raw CSVs can be found within **Resources** > **Raw CSVs** Folder)
 
 •	Create a RDS and S3 within Amazon Web Services to store the following data sets and share publicly with team.
 
@@ -107,19 +107,25 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![Screenshot (121)](https://user-images.githubusercontent.com/81484054/132953447-5b6d9b48-aa2b-4e56-b8d6-6d71de150035.png)
 
 **Post ETL of the cleaned campaign data**
-
 ![Screenshot (120)](https://user-images.githubusercontent.com/81484054/132953440-537b9778-6d13-4128-9703-190454493a7f.png)
+
+**ERD OUTLINE**
+![ERD OUTLINE](./ERD/ERD\ Outline.png)
+
+**ERD CURRENT TABLES**
+![ERD CURRENT TABLES](./ERD/ERD\ Current\ Tables.png)
+
 
 ## ML Model
 ### Overview
-Our goal is to create a supervised machine learning model to predict the results of the NYC mayoral elections. 
+Our goal is to create a supervised machine learning model to predict the results of the NYC mayoral elections.
 ### Supervised Learning
 We will use data from past elections to see whether our model can predict winner of previous elections using data such as:
 - Total amount of money fundraised
 - The occupations of those who donated
 - The industries that contributed the most
 - The amount of corporate donations each candidate received
-This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections. 
+This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections.
 - The model will taken in features such as money raised, expenditures, and source of funds to a particular candidate to predict the total number of votes, and therefore winner, of a NYC mayoral election.
 - We aim to use a Random Forest Classifier algorithm for this model
 
@@ -128,13 +134,13 @@ This data is available to the public and can be found on the New York City Campa
 ### Abir
     - Point for machine learning
     - TRIANGLE
-    
+
 ### Brandon
     - Co point for technologies and integration
     - Co point for database schema
     - Co point for docs
     - CIRCLE
-  
+
 ### Riley
     - Co point for database schema
     - Co point for docs
@@ -157,5 +163,3 @@ This data is available to the public and can be found on the New York City Campa
     - Co point for integration
     - Co point for docs
     - SQUARE
-
-
