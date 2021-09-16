@@ -43,10 +43,12 @@ function switchToNextTab(){
     console.log(activeSheet.getName());
     switch(activeSheet.getName()){
       case "Dashboard 1":  
-        workbook.activateSheetAsync("Dashboard 2");
-        activeSheet = workbook.getActiveSheet();
-        console.log("hello there");
-        console.log( activeSheet.getName());
+        workbook.activateSheetAsync("Dashboard 2")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
         break;
       case "Dashboard 2":
         console.log("Dashboard 2 is here")
@@ -62,11 +64,13 @@ function switchToPreviousTab(){
     console.log(activeSheet.getName());
     switch(activeSheet.getName()){
       case "Dashboard 2":  
+
         workbook.activateSheetAsync("Dashboard 1")
-       
+        .then(function (sheet){
           activeSheet = workbook.getActiveSheet();
-        
-        
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
         const button = document.getElementById("btnPrevious");
         button.disabled = true;
         break;
