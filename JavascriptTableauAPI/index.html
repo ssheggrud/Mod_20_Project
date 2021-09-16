@@ -4,15 +4,49 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tableau Javascript API </title>
+  <title>Mayor Elections Finance Data</title>
   <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
   <script src="static/js/Tableau.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/style.css">
   
 </head>
 <body onload="initViz();">
-  <div id="containerDiv"></div>
+  <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+    <a class="nav-link" href="index.html">Home</a>
+</nav>
+<div class="grey container">
+  <div class="row">
+    <div class="display-4 jumbotron text-center col-md-12">
+      <h1>New York City Campaign Finance Board</h1>
+    </div>
+  </div>
+  <div class="font"><p>Individual Contributions to Participating Mayoral Candidates</p></div>
+  <div class="row">
+    <div class="col-md-2 ">
+      <div class="well" >
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Finance data analysis</h3>
+        </div>
+        <div id="sample-metadata" class="panel-body bg-info"></div>
+      </div>
+    </div>
+    <div class="col-md-10" ScrollStyle>
+    <div id="Div1" style="width:800px; height:700px; overflow:auto;"></div>
+    <div id="controls" style="padding:20px;">
+      <input type="button" onclick="javascript:switchToPreviousTab();" id="btnPrevious" value="Previous">
+      <input type="button" onclick="javascript:switchToNextTab();" id="btnNext" value="Next">
+      <!--<button name = "Previous;" style="width:100px;" onclick="javascript:switchToPreviousTab();">Previous</button>-->
+      <!--<button name = "Next;" style="width:100px;" onclick="javascript:switchToNextTab();">Next</button>-->
+  </div>
+    </div>
+      </div>
+  <!--<div id="Div1" style="width:800px; height:700px;"></div>-->
  <!--
 <div class='tableauPlaceholder' id='viz1631507805878' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;Elections_16312857232880&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Elections_16312857232880&#47;Story1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;El&#47;Elections_16312857232880&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1631507805878');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='1014px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
  --> 
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
 </body>
 </html>
