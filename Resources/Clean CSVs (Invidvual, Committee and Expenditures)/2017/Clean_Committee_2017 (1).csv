@@ -1,0 +1,217 @@
+,Election,CandidateID,CandidateName,Date,Name,ContributerType,BoroughName,City,State,ZipCode,ContributionState,Amount,MatchAmt,PrevAmt,PayMethod,TotalAmount
+0,2017,326,"de Blasio, Bill",2017-09-09,1199/SEIU NYS Pol. Action Fund,Political Action Committee,Manhattan,New York,NY,10108.0,,4950.0,0.0,0.0,Check,4950.0
+1,2017,326,"de Blasio, Bill",2016-07-08,32BJ United ADF,Political Action Committee,Manhattan,New York,NY,10011.0,,2500.0,0.0,0.0,Check,2500.0
+2,2017,326,"de Blasio, Bill",2017-01-11,32BJ United ADF,Political Action Committee,Manhattan,New York,NY,10011.0,,2450.0,0.0,2500.0,Check,4950.0
+3,2017,326,"de Blasio, Bill",2017-09-11,ACEC New York City PAC,Political Action Committee,Manhattan,New York,NY,10018.0,,4950.0,0.0,0.0,Check,4950.0
+4,2017,326,"de Blasio, Bill",2017-08-07,AFSCME DC 1707 PAC,Political Action Committee,Manhattan,New York,NY,10013.0,,500.0,0.0,0.0,Check,500.0
+5,2017,326,"de Blasio, Bill",2017-10-25,AFSCME DC 1707 PAC,Political Action Committee,Manhattan,New York,NY,10013.0,,3000.0,0.0,500.0,Check,3500.0
+6,2017,326,"de Blasio, Bill",2017-11-08,AFSCME International,Labor Union,Other,Washington,DC,20036.0,,4950.0,0.0,0.0,Check,4950.0
+7,2017,326,"de Blasio, Bill",2017-01-06,AFSCME Local 1407,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+8,2017,326,"de Blasio, Bill",2017-11-15,AFT Michigan,Labor Union,Other,Detroit,MI,48207.0,,1000.0,0.0,0.0,Check,1000.0
+9,2017,326,"de Blasio, Bill",2017-10-20,Amalgamated Transit Union Loca,Labor Union,Queens,Queens Village,NY,11428.0,,2500.0,0.0,0.0,Check,2500.0
+10,2017,326,"de Blasio, Bill",2016-07-11,American Federation of Teacher,Labor Union,Other,Washington,DC,20001.0,,4950.0,0.0,0.0,Check,4950.0
+11,2017,2084,"Bashner, Richard S",2017-06-12,Article the Fifth Trust uwo Ar,Other,Other,Yonkers,NY,10705.0,,2500.0,0.0,0.0,Check,2500.0
+12,2017,2071,"Malliotakis, Nicole",2017-07-10,Association of Surrogates Repo,Other,Manhattan,New York,NY,10007.0,,500.0,0.0,0.0,Check,500.0
+13,2017,326,"de Blasio, Bill",2017-11-02,Association of Theatrical Pres,Labor Union,Manhattan,New York,NY,10036.0,,400.0,0.0,0.0,Check,400.0
+14,2017,326,"de Blasio, Bill",2015-10-15,ATU NY COPE Fund,Political Action Committee,Other,Washington,DC,20016.0,,4950.0,0.0,0.0,Check,4950.0
+15,2017,2071,"Malliotakis, Nicole",2017-07-20,Believe in New York,Political Action Committee,Other,RIDGEFIELD,CT,6877.0,,1000.0,0.0,0.0,Check,1000.0
+16,2017,2071,"Malliotakis, Nicole",2017-07-20,Believe in New York,Political Action Committee,Other,RIDGEFIELD,CT,6877.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+17,2017,2071,"Malliotakis, Nicole",2017-06-06,Boyle for Senate,Other,Other,BAYSHORE,NY,11706.0,,500.0,0.0,0.0,Check,500.0
+18,2017,2071,"Malliotakis, Nicole",2017-10-24,BRING BROOKLYN BACK,Political Action Committee,Other,MINEOLA,NY,11501.0,,200.0,0.0,0.0,Check,200.0
+19,2017,326,"de Blasio, Bill",2016-07-06,Building & Construction Trades,Political Action Committee,Manhattan,New York,NY,10010.0,,2500.0,0.0,0.0,Check,2500.0
+20,2017,326,"de Blasio, Bill",2017-05-02,Building for New Yorkers PAC,Political Action Committee,Other,Merrick,NY,11566.0,,4950.0,0.0,0.0,Check,4950.0
+21,2017,326,"de Blasio, Bill",2017-03-05,California State Council of Un,Labor Union,Other,San Francisco,CA,94102.0,,4950.0,0.0,0.0,Check,4950.0
+22,2017,326,"de Blasio, Bill",2017-03-05,California State Council of Un,Labor Union,Other,San Francisco,CA,94102.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+23,2017,326,"de Blasio, Bill",2016-07-06,Captains Endowment Association,Political Action Committee,Manhattan,New York,NY,10038.0,,2000.0,0.0,0.0,Check,2000.0
+24,2017,326,"de Blasio, Bill",2017-05-09,Carolyn's PAC,Political Action Committee,Manhattan,New York,NY,10128.0,,1000.0,0.0,0.0,Check,1000.0
+25,2017,326,"de Blasio, Bill",2017-05-09,Carolyn's PAC,Political Action Committee,Manhattan,New York,NY,10128.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+26,2017,326,"de Blasio, Bill",2017-08-23,Civil Service Technical Guild,Political Action Committee,Manhattan,New York,NY,10007.0,,4950.0,0.0,0.0,Check,4950.0
+27,2017,326,"de Blasio, Bill",2017-08-23,Civil Service Technical Guild,Political Action Committee,Manhattan,New York,NY,10007.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+28,2017,2071,"Malliotakis, Nicole",2017-08-14,CONSERVATIVE PARTY OF MONROE C,Political Action Committee,Other,PITTSFORD,NY,14534.0,,1000.0,0.0,0.0,Check,1000.0
+29,2017,2071,"Malliotakis, Nicole",2017-08-14,CONSERVATIVE PARTY OF MONROE C,Political Action Committee,Other,PITTSFORD,NY,14534.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+30,2017,326,"de Blasio, Bill",2017-05-09,Corey 2017,Candidate Committee,Manhattan,New York,NY,10001.0,NY,2382.0,0.0,0.0,Credit Card,2382.0
+31,2017,326,"de Blasio, Bill",2017-05-11,Corey 2017,Candidate Committee,Manhattan,New York,NY,10001.0,NY,125.0,0.0,2382.0,Credit Card,2507.0
+32,2017,326,"de Blasio, Bill",2017-06-27,Corey 2017,Candidate Committee,Manhattan,New York,NY,10001.0,NY,2443.0,0.0,2507.0,Check,4950.0
+33,2017,326,"de Blasio, Bill",2016-06-29,Council of School Supervisors,Political Action Committee,Manhattan,New York,NY,10006.0,,2500.0,0.0,0.0,Check,2500.0
+34,2017,326,"de Blasio, Bill",2017-01-06,Council of School Supervisors,Political Action Committee,Manhattan,New York,NY,10006.0,,2450.0,0.0,2500.0,Check,4950.0
+35,2017,326,"de Blasio, Bill",2015-10-27,Cozen O'Connor Empire State PA,Political Action Committee,Other,Philadelphia,PA,19103.0,,2000.0,0.0,0.0,Check,2000.0
+36,2017,326,"de Blasio, Bill",2017-08-01,CSE Political Action Fund,Political Action Committee,Other,Albany,NY,12210.0,,2500.0,0.0,0.0,Check,2500.0
+37,2017,326,"de Blasio, Bill",2015-10-21,CWA District One PAC,Political Action Committee,Manhattan,New York,NY,10005.0,,2500.0,0.0,0.0,Check,2500.0
+38,2017,326,"de Blasio, Bill",2016-05-05,CWA District One PAC,Political Action Committee,Manhattan,New York,NY,10005.0,,2450.0,0.0,2500.0,Check,4950.0
+39,2017,326,"de Blasio, Bill",2015-10-28,D & M PAC LLC,Political Action Committee,Manhattan,New York,NY,10158.0,,1500.0,0.0,0.0,Check,1500.0
+40,2017,326,"de Blasio, Bill",2016-05-12,D&M P.A.C. LLC,Political Action Committee,Manhattan,New York,NY,10158.0,,200.0,0.0,0.0,Check,200.0
+41,2017,2071,"Malliotakis, Nicole",2017-09-18,D.E.A.C.O.P.E. FUND,Political Action Committee,Manhattan,New York,NY,10007.0,,3950.0,0.0,1000.0,Check,4950.0
+42,2017,2071,"Malliotakis, Nicole",2017-06-27,D.E.A.C.O.P.E. FUND,Political Action Committee,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+43,2017,326,"de Blasio, Bill",2017-10-25,DC 1707 - Local 253,Labor Union,Manhattan,New York,NY,10036.0,,500.0,0.0,0.0,Check,500.0
+44,2017,326,"de Blasio, Bill",2015-12-21,DC 37,Other,Manhattan,New York,NY,10007.0,,3500.0,0.0,0.0,Check,3500.0
+45,2017,326,"de Blasio, Bill",2016-07-09,DC 37,Other,Manhattan,New York,NY,10007.0,,1450.0,0.0,3500.0,Check,4950.0
+46,2017,326,"de Blasio, Bill",2017-08-24,DC 37- Local 1320,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+47,2017,326,"de Blasio, Bill",2017-08-23,DC 37- Local 1407 PAC,Political Action Committee,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+48,2017,326,"de Blasio, Bill",2017-08-23,DC 37- Local 1505,Labor Union,Manhattan,New York,NY,10007.0,,1950.0,0.0,0.0,Check,1950.0
+49,2017,326,"de Blasio, Bill",2017-08-23,DC 37- Local 461,Labor Union,Manhattan,New York,NY,10013.0,,3500.0,0.0,0.0,Check,3500.0
+50,2017,326,"de Blasio, Bill",2017-08-23,DC 37- Local 508,Labor Union,Manhattan,New York,NY,10007.0,,3500.0,0.0,0.0,Check,3500.0
+51,2017,326,"de Blasio, Bill",2017-09-01,DC 37- Local 638 Steamfitters,Political Action Committee,Queens,Long Island City,NY,11101.0,,500.0,0.0,0.0,Check,500.0
+52,2017,326,"de Blasio, Bill",2017-08-23,DC 37-Local 1455,Labor Union,Manhattan,New York,NY,10007.0,,500.0,0.0,0.0,Check,500.0
+53,2017,326,"de Blasio, Bill",2017-08-23,DC 37– Local 1070,Labor Union,,,,,,500.0,0.0,0.0,Check,500.0
+54,2017,2055,"De La Fuente, Roque R",2017-04-21,Derrick Lee,Candidate Committee,Manhattan,New York,NY,10036.0,,100.0,0.0,0.0,Cash,100.0
+55,2017,326,"de Blasio, Bill",2017-06-28,Duane Morris LLP,Political Action Committee,Other,Philadelphia,PA,19103.0,,1000.0,0.0,0.0,Check,1000.0
+56,2017,2071,"Malliotakis, Nicole",2017-10-02,EMPIRE DENTAL POLITICAL ACTION,Political Action Committee,Other,ALBANY,NY,12211.0,,500.0,0.0,0.0,Check,500.0
+57,2017,326,"de Blasio, Bill",2017-10-03,Friends of Aravella,Political Action Committee,Other,Stamford,CT,6905.0,,4950.0,0.0,0.0,Check,4950.0
+58,2017,2071,"Malliotakis, Nicole",2017-05-09,Friends of Brian Kolb,Other,Other,Canandaigua,NY,14424.0,,2000.0,0.0,0.0,Check,2000.0
+59,2017,2071,"Malliotakis, Nicole",2017-08-02,FRIENDS OF CAHILL,Other,Queens,Flushing,NY,10591.0,,1000.0,0.0,0.0,Check,1000.0
+60,2017,2071,"Malliotakis, Nicole",2017-08-02,FRIENDS OF CAHILL,Other,Queens,Flushing,NY,10591.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+61,2017,326,"de Blasio, Bill",2017-08-29,Friends of Cultural Institutio,Political Action Committee,Other,Albany,NY,12207.0,,3000.0,0.0,0.0,Check,3000.0
+62,2017,2071,"Malliotakis, Nicole",2017-09-18,FRIENDS OF MARTY GOLDEN,Political Action Committee,Brooklyn,Brooklyn,NY,11228.0,,500.0,0.0,0.0,Check,500.0
+63,2017,326,"de Blasio, Bill",2017-03-11,"Gary Jones, Stacey Snider Ttee",Other,Other,Los Angeles,CA,90024.0,,4950.0,0.0,0.0,Check,4950.0
+64,2017,326,"de Blasio, Bill",2016-01-11,Greenberg Taurig PAC,Political Action Committee,Manhattan,New York,NY,10166.0,,4950.0,0.0,0.0,Check,4950.0
+65,2017,326,"de Blasio, Bill",2016-06-20,Greenfield NYC,Candidate Committee,Brooklyn,Brooklyn,NY,11230.0,,1000.0,0.0,0.0,Check,1000.0
+66,2017,326,"de Blasio, Bill",2015-10-30,Gutman Mintz Baker & Sonnenfet,Corporation,Queens,New Hyde Park,NY,11040.0,,1000.0,0.0,0.0,Credit Card,1000.0
+67,2017,326,"de Blasio, Bill",2015-10-30,Gutman Mintz Baker & Sonnenfet,Corporation,Queens,New Hyde Park,NY,11040.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+68,2017,326,"de Blasio, Bill",2014-08-19,HANYC Political Action Committ,Political Action Committee,Manhattan,New York,NY,10022.0,,750.0,0.0,0.0,Check,750.0
+69,2017,326,"de Blasio, Bill",2015-10-19,HF Responsibility Fund,Political Action Committee,Manhattan,New York,NY,10016.0,,2500.0,0.0,0.0,Check,2500.0
+70,2017,326,"de Blasio, Bill",2017-11-01,HNTB Holdings LTD,Political Action Committee,Other,Kansas City,MO,64105.0,,1000.0,0.0,0.0,Check,1000.0
+71,2017,326,"de Blasio, Bill",2017-11-01,HNTB Holdings LTD,Political Action Committee,Other,Kansas City,MO,64105.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+72,2017,326,"de Blasio, Bill",2017-03-03,Howard L. Gottlieb Living Trus,Other,Other,Skokie,IL,60077.0,,4950.0,0.0,0.0,Check,4950.0
+73,2017,326,"de Blasio, Bill",2017-02-05,I.B.E.W. New York PAC,Political Action Committee,Other,Washington,DC,20001.0,,1000.0,0.0,0.0,Check,1000.0
+74,2017,326,"de Blasio, Bill",2017-03-09,I.B.E.W. New York PAC,Political Action Committee,Other,Washington,DC,20001.0,,3950.0,0.0,1000.0,Check,4950.0
+75,2017,326,"de Blasio, Bill",2017-03-23,IBEW Local Union No. 3,Labor Union,Queens,Fresh Meadows,NY,11365.0,,4950.0,0.0,0.0,Check,4950.0
+76,2017,326,"de Blasio, Bill",2017-09-08,IBT Joint Council No 16,Political Action Committee,Manhattan,New York,NY,10011.0,,4950.0,0.0,0.0,Check,4950.0
+77,2017,326,"de Blasio, Bill",2017-11-15,Illinois Federation of Teacher,Political Action Committee,Other,Westmont,IL,60559.0,,1000.0,0.0,0.0,Check,1000.0
+78,2017,326,"de Blasio, Bill",2017-10-11,International Alliance of Thea,Political Action Committee,Manhattan,New York,NY,10001.0,,1000.0,0.0,0.0,Check,1000.0
+79,2017,326,"de Blasio, Bill",2015-10-21,Intl Union Oper Engin 14-14B,Political Action Committee,Queens,Flushing,NY,11354.0,,4950.0,0.0,0.0,Check,4950.0
+80,2017,326,"de Blasio, Bill",2015-10-26,"Intl Union Oper Engin 15, 15A",Political Action Committee,Queens,Long Island City,NY,11101.0,,4950.0,0.0,0.0,Check,4950.0
+81,2017,326,"de Blasio, Bill",2017-06-22,IUOE LOCAL 30,Party Committee,Queens,Whitestone,NY,11357.0,,4950.0,0.0,0.0,Check,4950.0
+82,2017,326,"de Blasio, Bill",2017-11-07,Jackson Lewis P.C. Poltical Ac,Political Action Committee,Other,Albany,NY,12207.0,,250.0,0.0,0.0,Check,250.0
+83,2017,2071,"Malliotakis, Nicole",2017-09-26,JANOVER LLC,Limited Liability Company,Manhattan,New York,NY,10022.0,,-312.13,0.0,0.0,Unknown,-312.13
+84,2017,2071,"Malliotakis, Nicole",2017-09-01,Kings County Conservative Part,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,1000.0,0.0,1350.0,Check,2350.0
+85,2017,2071,"Malliotakis, Nicole",2017-04-25,Kings County Conservative Part,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,1000.0,0.0,0.0,Check,1000.0
+86,2017,2071,"Malliotakis, Nicole",2017-06-29,Kings County Conservative Part,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,350.0,0.0,1000.0,Check,1350.0
+87,2017,2071,"Malliotakis, Nicole",2017-10-21,Kings County Republican Party,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,500.0,0.0,250.0,Check,750.0
+88,2017,2071,"Malliotakis, Nicole",2017-06-29,Kings County Republican Party,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,250.0,0.0,0.0,Check,250.0
+89,2017,2071,"Malliotakis, Nicole",2017-06-29,Kings County Republican Party,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,-250.0,0.0,0.0,Unknown,-250.0
+90,2017,2071,"Malliotakis, Nicole",2017-07-07,Lieutenants Benevolent Assoc.,Political Action Committee,Manhattan,New York,NY,10038.0,,1000.0,0.0,0.0,Check,1000.0
+91,2017,2071,"Malliotakis, Nicole",2017-07-10,Lieutenants Benevolent Assoc.,Political Action Committee,Manhattan,New York,NY,10038.0,,1000.0,0.0,1000.0,Check,2000.0
+92,2017,326,"de Blasio, Bill",2016-06-07,Local 108 RWDSU AFL CIO,Labor Union,Other,Maplewood,NJ,7040.0,,1000.0,0.0,0.0,Check,1000.0
+93,2017,326,"de Blasio, Bill",2016-05-24,Local 1102 RWDSU,Labor Union,Other,Woodbury,NY,11797.0,,2000.0,0.0,0.0,Check,2000.0
+94,2017,326,"de Blasio, Bill",2017-01-26,Local 1102 RWDSU,Labor Union,Other,Woodbury,NY,11797.0,,1000.0,0.0,2000.0,Check,3000.0
+95,2017,326,"de Blasio, Bill",2017-07-14,Local 1109 CWA,Labor Union,Brooklyn,Brooklyn,NY,11234.0,,1500.0,0.0,0.0,Check,1500.0
+96,2017,326,"de Blasio, Bill",2017-10-31,Local 1109 CWA,Labor Union,Brooklyn,Brooklyn,NY,11234.0,,3450.0,0.0,1500.0,Check,4950.0
+97,2017,326,"de Blasio, Bill",2017-10-06,Local 1157– NYC Dept of Transp,Labor Union,Manhattan,New York,NY,10007.0,,500.0,0.0,0.0,Check,500.0
+98,2017,326,"de Blasio, Bill",2017-01-11,Local 1182 Political Action,Political Action Committee,Queens,Forest Hills,NY,11375.0,,1500.0,0.0,0.0,Check,1500.0
+99,2017,326,"de Blasio, Bill",2017-06-27,Local 1182 Political Action,Political Action Committee,Queens,Forest Hills,NY,11375.0,,1500.0,0.0,1500.0,Check,3000.0
+100,2017,326,"de Blasio, Bill",2016-07-09,Local 1407 AFSCME Political Co,Political Action Committee,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+101,2017,326,"de Blasio, Bill",2015-10-16,Local 147 Political Action Fun,Political Action Committee,Bronx,Bronx,NY,10470.0,,4950.0,0.0,0.0,Check,4950.0
+102,2017,326,"de Blasio, Bill",2016-06-06,Local 1500 Political Candidate,Political Action Committee,Other,Westbury,NY,11590.0,,2000.0,0.0,0.0,Check,2000.0
+103,2017,326,"de Blasio, Bill",2017-01-06,Local 1500 Political Candidate,Political Action Committee,Other,Westbury,NY,11590.0,,1000.0,0.0,2000.0,Check,3000.0
+104,2017,326,"de Blasio, Bill",2016-07-06,Local 1505 American Federation,Labor Union,Manhattan,New York,NY,10007.0,,2000.0,0.0,0.0,Check,2000.0
+105,2017,326,"de Blasio, Bill",2017-01-05,Local 1505 American Federation,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,2000.0,Check,3000.0
+106,2017,326,"de Blasio, Bill",2017-11-15,Local 1549 AFSCME,Labor Union,Manhattan,New York,NY,10007.0,,4950.0,0.0,0.0,Check,4950.0
+107,2017,326,"de Blasio, Bill",2017-09-05,Local 2627 NYC Electronic Data,Labor Union,Manhattan,New York,NY,10007.0,,500.0,0.0,2000.0,Check,2500.0
+108,2017,326,"de Blasio, Bill",2016-07-07,Local 2627 NYC Electronic Data,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+109,2017,326,"de Blasio, Bill",2017-01-11,Local 2627 NYC Electronic Data,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,1000.0,Check,2000.0
+110,2017,326,"de Blasio, Bill",2016-06-01,Local 338 RWDSU/UFCW,Political Action Committee,Queens,Queens,NY,11374.0,,1500.0,0.0,0.0,Check,1500.0
+111,2017,326,"de Blasio, Bill",2016-06-03,Local 338 RWDSU/UFCW,Political Action Committee,Queens,Queens,NY,11374.0,,500.0,0.0,1500.0,Check,2000.0
+112,2017,326,"de Blasio, Bill",2017-01-05,Local 338 RWDSU/UFCW,Political Action Committee,Other,Mineola,NY,11501.0,,100.0,0.0,0.0,Check,100.0
+113,2017,326,"de Blasio, Bill",2017-01-05,Local 338 RWDSU/UFCW,Political Action Committee,Other,Mineola,NY,11501.0,,1500.0,0.0,0.0,Check,1500.0
+114,2017,326,"de Blasio, Bill",2017-05-01,Local 338 RWDSU/UFCW,Political Action Committee,Other,Mineola,NY,11501.0,,1350.0,0.0,1600.0,Check,2950.0
+115,2017,326,"de Blasio, Bill",2017-08-14,Local 34 Unite Here,Labor Union,Other,New Haven,CT,6511.0,,4950.0,0.0,0.0,Check,4950.0
+116,2017,326,"de Blasio, Bill",2017-02-16,Local 342 Political Action Fun,Labor Union,Other,Mineola,NY,11501.0,,4500.0,0.0,0.0,Check,4500.0
+117,2017,326,"de Blasio, Bill",2017-02-16,Local 342 Political Action Fun,Labor Union,Other,Mineola,NY,11501.0,,-4500.0,0.0,0.0,Unknown,-4500.0
+118,2017,326,"de Blasio, Bill",2016-05-10,Local 372 PAC,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+119,2017,326,"de Blasio, Bill",2017-01-10,Local 372 PAC,Labor Union,Manhattan,New York,NY,10007.0,,1500.0,0.0,1000.0,Check,2500.0
+120,2017,326,"de Blasio, Bill",2017-03-11,Local 372 PAC,Labor Union,Manhattan,New York,NY,10007.0,,950.0,0.0,2500.0,Check,3450.0
+121,2017,326,"de Blasio, Bill",2016-05-17,"Local 372, NYC BOE Employees P",Political Action Committee,Manhattan,New York,NY,10007.0,,1500.0,0.0,0.0,Check,1500.0
+122,2017,326,"de Blasio, Bill",2016-07-08,Local 461 AFSCME,Labor Union,Manhattan,New York,NY,10013.0,,1000.0,0.0,0.0,Check,1000.0
+123,2017,326,"de Blasio, Bill",2016-07-08,Local 508 District Council 37,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+124,2017,326,"de Blasio, Bill",2017-01-10,Local 6 Committee on Poltical,Political Action Committee,Manhattan,New York,NY,10036.0,,2450.0,0.0,0.0,Check,2450.0
+125,2017,326,"de Blasio, Bill",2016-06-28,Local 6 Political Action Comm.,Political Action Committee,Manhattan,New York,NY,10036.0,,2500.0,0.0,0.0,Check,2500.0
+126,2017,326,"de Blasio, Bill",2016-07-12,Local 638 Steamfitters,Political Action Committee,Queens,Long Island City,NY,11101.0,,421.0,0.0,0.0,Check,421.0
+127,2017,326,"de Blasio, Bill",2016-06-03,Local 670 RWDSU UFCW,Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+128,2017,326,"de Blasio, Bill",2016-07-12,Local 670-General Fund,Political Action Committee,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+129,2017,326,"de Blasio, Bill",2016-07-07,"Local 768, AFSCME",Labor Union,Manhattan,New York,NY,10007.0,,1000.0,0.0,0.0,Check,1000.0
+130,2017,326,"de Blasio, Bill",2017-01-11,"Local 768, AFSCME",Labor Union,Manhattan,New York,NY,10007.0,,5000.0,0.0,1000.0,Check,6000.0
+131,2017,326,"de Blasio, Bill",2016-07-07,"Local 768, AFSCME",Labor Union,Manhattan,New York,NY,10007.0,,-1000.0,0.0,0.0,Unknown,-1000.0
+132,2017,326,"de Blasio, Bill",2017-01-11,"Local 768, AFSCME",Labor Union,Manhattan,New York,NY,10007.0,,-50.0,0.0,0.0,Unknown,-50.0
+133,2017,326,"de Blasio, Bill",2016-07-06,Local 888 UFCW,Labor Union,Other,Rutherford,NJ,7071.0,,1000.0,0.0,0.0,Check,1000.0
+134,2017,326,"de Blasio, Bill",2016-07-11,Local 891 IUOE State Engineers,Labor Union,Brooklyn,Brooklyn,NY,11205.0,,4950.0,0.0,0.0,Check,4950.0
+135,2017,326,"de Blasio, Bill",2016-07-05,Local 94 PAC State Fund,Political Action Committee,Manhattan,New York,NY,10036.0,,4950.0,0.0,0.0,Check,4950.0
+136,2017,326,"de Blasio, Bill",2017-03-02,Local 983,Labor Union,Manhattan,New York,NY,10007.0,,4950.0,0.0,0.0,Check,4950.0
+137,2017,326,"de Blasio, Bill",2015-11-12,Markowitz/Brooklyn,Candidate Committee,Brooklyn,Brooklyn,NY,11218.0,,1000.0,0.0,0.0,Check,1000.0
+138,2017,326,"de Blasio, Bill",2017-10-21,Mason Tenders District Council,Political Action Committee,Manhattan,New York,NY,10018.0,,4950.0,0.0,0.0,Check,4950.0
+139,2017,2071,"Malliotakis, Nicole",2017-08-21,Metropolitan Funeral Directors,Political Action Committee,Bronx,Bronx,NY,10464.0,,500.0,0.0,0.0,Check,500.0
+140,2017,2071,"Malliotakis, Nicole",2017-04-26,Neighborhood Preservation Poli,Political Action Committee,Manhattan,New York,NY,10038.0,,4950.0,0.0,0.0,Check,4950.0
+141,2017,326,"de Blasio, Bill",2017-08-07,New York Admin Employ CWA1180,Labor Union,Manhattan,New York,NY,10013.0,,2500.0,0.0,0.0,Check,2500.0
+142,2017,326,"de Blasio, Bill",2017-05-09,New York Administrative Employ,Labor Union,Manhattan,New York,NY,10013.0,,1000.0,0.0,0.0,Check,1000.0
+143,2017,326,"de Blasio, Bill",2017-07-21,New York City Central Labor Co,Political Action Committee,Manhattan,New York,NY,10001.0,,1000.0,0.0,0.0,Check,1000.0
+144,2017,326,"de Blasio, Bill",2017-09-18,New York City Central Labor Co,Political Action Committee,Manhattan,New York,NY,10001.0,,3950.0,0.0,1000.0,Check,4950.0
+145,2017,326,"de Blasio, Bill",2016-06-27,New York Hotel Trades Council,Labor Union,Manhattan,New York,NY,10036.0,,2500.0,0.0,0.0,Check,2500.0
+146,2017,326,"de Blasio, Bill",2017-01-04,New York Hotel Trades Council,Political Action Committee,Manhattan,New York,NY,10036.0,,2450.0,0.0,0.0,Check,2450.0
+147,2017,326,"de Blasio, Bill",2016-07-08,New York State Laborers PAC,Political Action Committee,Other,Albany,NY,12211.0,,4950.0,0.0,0.0,Check,4950.0
+148,2017,326,"de Blasio, Bill",2017-05-05,New York UAW Region 9A PAC Cou,Political Action Committee,Other,Farmington,CT,6032.0,,2950.0,0.0,0.0,Check,2950.0
+149,2017,2071,"Malliotakis, Nicole",2017-05-09,Nicole for New York,Other,Staten Island,Staten Island,NY,10306.0,,4500.0,0.0,0.0,Check,4500.0
+150,2017,326,"de Blasio, Bill",2015-10-26,Nixon Peabody LLP NYS PAC,Political Action Committee,Other,Rochester,NY,14604.0,,2000.0,0.0,0.0,Check,2000.0
+151,2017,326,"de Blasio, Bill",2017-09-18,NY Coca Cola Refreshments NONP,Political Action Committee,Other,Altanta,GA,30313.0,,1000.0,0.0,0.0,Check,1000.0
+152,2017,2071,"Malliotakis, Nicole",2017-09-15,NY Republican County Committee,Candidate Committee,Manhattan,New York,NY,10028.0,,1000.0,0.0,0.0,Credit Card,1000.0
+153,2017,326,"de Blasio, Bill",2015-10-23,NYC Property Tax Fairness PAC,Political Action Committee,Other,Albany,NY,12207.0,,2500.0,0.0,0.0,Check,2500.0
+154,2017,326,"de Blasio, Bill",2016-07-01,NYSNA,Political Action Committee,Other,Albany,NY,12210.0,,4950.0,0.0,0.0,Check,4950.0
+155,2017,326,"de Blasio, Bill",2015-10-16,Oilheat PAC,Political Action Committee,Manhattan,New York,NY,10122.0,,2500.0,0.0,0.0,Check,2500.0
+156,2017,326,"de Blasio, Bill",2017-11-15,PFT Comittee to Support Public,Labor Union,Other,Philadelphia,PA,19103.0,,1000.0,0.0,0.0,Check,1000.0
+157,2017,326,"de Blasio, Bill",2017-04-10,Plumbers & Pipefitters Local 4,Labor Union,Other,Sacramento,CA,95819.0,,4950.0,0.0,0.0,Check,4950.0
+158,2017,326,"de Blasio, Bill",2016-07-11,Plumbers Loc. Union #1 NYC PAC,Political Action Committee,Queens,Long Island City,NY,11101.0,,1000.0,0.0,0.0,Check,1000.0
+159,2017,326,"de Blasio, Bill",2017-01-09,Plumbers Loc. Union #1 NYC PAC,Political Action Committee,Queens,Long Island City,NY,11101.0,,1000.0,0.0,1000.0,Check,2000.0
+160,2017,326,"de Blasio, Bill",2017-11-15,Progress & Justice Politcal Ac,Political Action Committee,Other,Newark,NJ,7104.0,,4950.0,0.0,0.0,Check,4950.0
+161,2017,326,"de Blasio, Bill",2017-01-11,PSC PAC,Political Action Committee,Manhattan,New York,NY,10006.0,,3500.0,0.0,0.0,Check,3500.0
+162,2017,326,"de Blasio, Bill",2017-07-06,PSC PAC,Political Action Committee,Manhattan,New York,NY,10006.0,,1450.0,0.0,3500.0,Check,4950.0
+163,2017,326,"de Blasio, Bill",2016-06-07,Retail Wholesale & Dept. store,Political Action Committee,Manhattan,New York,NY,10001.0,,4379.76,0.0,0.0,Check,4379.76
+164,2017,326,"de Blasio, Bill",2017-05-03,Richards 2017,Candidate Committee,Queens,Rosedale,NY,11422.0,,250.0,0.0,0.0,Check,250.0
+165,2017,326,"de Blasio, Bill",2017-05-09,Richards 2017,Candidate Committee,Queens,Rosedale,NY,11422.0,,1000.0,0.0,250.0,Check,1250.0
+166,2017,2071,"Malliotakis, Nicole",2017-11-09,RPAC OF NEW YORK STATE,Political Action Committee,Brooklyn,Brooklyn,NY,11210.0,,3525.0,0.0,0.0,Check,3525.0
+167,2017,326,"de Blasio, Bill",2017-01-05,SEIU C.O.P.E.,Political Action Committee,Other,Washington,DC,20036.0,,4950.0,0.0,0.0,Check,4950.0
+168,2017,326,"de Blasio, Bill",2017-01-05,SEIU C.O.P.E.,Political Action Committee,Other,Washington,DC,20036.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+169,2017,326,"de Blasio, Bill",2017-04-10,SEIU Local 1957 Committee Of I,Labor Union,Manhattan,New York,NY,10018.0,,4950.0,0.0,0.0,Check,4950.0
+170,2017,326,"de Blasio, Bill",2017-03-11,SEIU PEA State Fund,Labor Union,Other,Washington,DC,20036.0,,4950.0,0.0,0.0,Check,4950.0
+171,2017,2071,"Malliotakis, Nicole",2017-05-09,Sergeants Benevolent Assoc. Po,Political Action Committee,Manhattan,New York,NY,10013.0,,4900.0,0.0,0.0,Check,4900.0
+172,2017,326,"de Blasio, Bill",2016-07-11,Social Serv Emps Union 371,Labor Union,Manhattan,New York,NY,10003.0,,2500.0,0.0,0.0,Check,2500.0
+173,2017,326,"de Blasio, Bill",2017-09-25,Social Serv Emps Union Loc 371,Labor Union,Manhattan,New York,NY,10003.0,,2000.0,0.0,0.0,Check,2000.0
+174,2017,326,"de Blasio, Bill",2017-01-10,SSL Political Action Committee,Political Action Committee,Manhattan,New York,NY,10038.0,,4950.0,0.0,0.0,Check,4950.0
+175,2017,326,"de Blasio, Bill",2017-10-29,State and Local PAC of the Int,Political Action Committee,Manhattan,New York,NY,10001.0,,1000.0,0.0,0.0,Check,1000.0
+176,2017,2071,"Malliotakis, Nicole",2017-07-26,State Conservative Campaign Co,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,1000.0,0.0,175.0,Check,1175.0
+177,2017,2071,"Malliotakis, Nicole",2017-06-29,State Conservative Campaign Co,Political Action Committee,Brooklyn,Brooklyn,NY,11209.0,,175.0,0.0,0.0,Check,175.0
+178,2017,326,"de Blasio, Bill",2017-04-14,Steinberg for Sacramento Mayor,Candidate Committee,Other,Sacramento,CA,95814.0,,1000.0,0.0,0.0,Check,1000.0
+179,2017,326,"de Blasio, Bill",2017-04-14,Steinberg for Sacramento Mayor,Candidate Committee,Other,Sacramento,CA,95814.0,,1000.0,0.0,0.0,Check,1000.0
+180,2017,326,"de Blasio, Bill",2017-08-28,STONEWALL DEMOCRATS,Other,,New York,NY,10013.0,,100.0,0.0,0.0,Check,100.0
+181,2017,2071,"Malliotakis, Nicole",2017-07-28,TEST DONATION,Other,Other,BATON ROUGE,LA,70810.0,,1.0,0.0,0.0,Credit Card,1.0
+182,2017,2071,"Malliotakis, Nicole",2017-07-28,TEST DONATION,Other,Other,BATON ROUGE,LA,70810.0,,-1.0,0.0,0.0,Unknown,-1.0
+183,2017,326,"de Blasio, Bill",2017-11-02,Texas American Federation of T,Political Action Committee,Other,Austin,TX,78704.0,,1000.0,0.0,0.0,Check,1000.0
+184,2017,2071,"Malliotakis, Nicole",2017-07-10,The Captains Endowment Assn. P,Party Committee,Manhattan,New York,NY,10038.0,,1000.0,0.0,0.0,Check,1000.0
+185,2017,326,"de Blasio, Bill",2017-05-09,The Edward Lewis Revocable Tru,Other,Manhattan,New York,NY,10024.0,,1000.0,0.0,0.0,Check,1000.0
+186,2017,326,"de Blasio, Bill",2017-04-06,The Katzenberg Family Trust,Other,Other,Los Angeles,CA,90064.0,,4950.0,0.0,0.0,Check,4950.0
+187,2017,326,"de Blasio, Bill",2017-04-06,The Spielberg Family Living Tr,Other,Other,Los Angeles,CA,90064.0,,4950.0,0.0,0.0,Check,4950.0
+188,2017,326,"de Blasio, Bill",2017-10-30,Theatrical Teamsters Local 817,Political Action Committee,Other,Great Neck,NY,11021.0,,4950.0,0.0,0.0,Check,4950.0
+189,2017,326,"de Blasio, Bill",2017-03-03,Thomas M Tully Trust,Other,Other,Chicago,IL,60602.0,,1500.0,0.0,0.0,Check,1500.0
+190,2017,326,"de Blasio, Bill",2017-10-11,TPU Local One IATSE NYC,Political Action Committee,Manhattan,New York,NY,10036.0,,2450.0,0.0,2500.0,Check,4950.0
+191,2017,326,"de Blasio, Bill",2016-07-05,TPU Local One IATSE NYC,Political Action Committee,Manhattan,New York,NY,10036.0,,2500.0,0.0,0.0,Check,2500.0
+192,2017,326,"de Blasio, Bill",2017-01-09,UA Political Action Fund,Political Action Committee,Other,Annapolis,MD,21401.0,,4950.0,0.0,0.0,Check,4950.0
+193,2017,326,"de Blasio, Bill",2017-01-09,UA Political Action Fund,Political Action Committee,Other,Annapolis,MD,21401.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+194,2017,326,"de Blasio, Bill",2016-07-11,UAW Region 9A,Political Action Committee,Other,Farmington,CT,6032.0,,4950.0,0.0,0.0,Check,4950.0
+195,2017,326,"de Blasio, Bill",2016-07-11,UAW Region 9A PAC Council,Political Action Committee,Other,Farmington,CT,6032.0,,2000.0,0.0,0.0,Check,2000.0
+196,2017,2071,"Malliotakis, Nicole",2017-09-18,UFOA 527 ACCOUNT,Labor Union,Manhattan,New York,NY,10038.0,,500.0,0.0,0.0,Check,500.0
+197,2017,326,"de Blasio, Bill",2016-07-07,UFT Cope,Labor Union,Manhattan,New York,NY,10010.0,,4950.0,0.0,0.0,Check,4950.0
+198,2017,326,"de Blasio, Bill",2016-07-11,Uniformed Fire Officers Assoc,Labor Union,Manhattan,New York,NY,10007.0,,4950.0,0.0,0.0,Check,4950.0
+199,2017,2071,"Malliotakis, Nicole",2017-08-31,UNIFORMED FIRE OFFICERS ASSOCI,Political Action Committee,Manhattan,New York,NY,10038.0,,500.0,0.0,0.0,Check,500.0
+200,2017,326,"de Blasio, Bill",2015-10-15,Uniformed Sanitationmen's Assn,Labor Union,Manhattan,New York,NY,10038.0,,4950.0,0.0,0.0,Check,4950.0
+201,2017,326,"de Blasio, Bill",2017-08-17,UNITE HERE Local 1,Labor Union,Other,Chicago,IL,60605.0,,4950.0,0.0,0.0,Other,4950.0
+202,2017,326,"de Blasio, Bill",2016-07-08,UNITE Here Local 100,Labor Union,Manhattan,New York,NY,10001.0,,4950.0,0.0,0.0,Check,4950.0
+203,2017,326,"de Blasio, Bill",2017-07-25,UNITE HERE Local 2 PAC,Party Committee,Other,San Francisco,CA,94102.0,,4950.0,0.0,0.0,Other,4950.0
+204,2017,326,"de Blasio, Bill",2017-04-10,Unite Here Local 49,Labor Union,Other,Sacramento,CA,95815.0,,1500.0,0.0,0.0,Check,1500.0
+205,2017,326,"de Blasio, Bill",2017-01-11,UNITE Here TIP State & Local F,Political Action Committee,Manhattan,New York,NY,10001.0,,4950.0,0.0,0.0,Check,4950.0
+206,2017,326,"de Blasio, Bill",2017-04-13,Unite Here Union Local 19,Labor Union,Other,San Jose,CA,95131.0,,1500.0,0.0,0.0,Check,1500.0
+207,2017,326,"de Blasio, Bill",2017-03-03,Unite Here Union/Local 450,Labor Union,Other,Forest Park,IL,60130.0,,4950.0,0.0,0.0,Check,4950.0
+208,2017,326,"de Blasio, Bill",2017-03-03,United Association of Journeym,Labor Union,Other,Annapolis,MD,21401.0,,4950.0,0.0,0.0,Check,4950.0
+209,2017,326,"de Blasio, Bill",2017-03-03,United Association of Journeym,Labor Union,Other,Annapolis,MD,21401.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+210,2017,326,"de Blasio, Bill",2017-01-10,United Food and Commercial Wor,Labor Union,Other,Washington,DC,20006.0,,4950.0,0.0,0.0,Check,4950.0
+211,2017,326,"de Blasio, Bill",2017-03-09,United Food and Commercial Wor,Labor Union,Other,Washington,DC,20006.0,,4950.0,0.0,4950.0,Check,9900.0
+212,2017,326,"de Blasio, Bill",2017-01-10,United Food and Commercial Wor,Labor Union,Other,Washington,DC,20006.0,,-4950.0,0.0,0.0,Unknown,-4950.0
+213,2017,326,"de Blasio, Bill",2017-01-04,"USW D-4 NY, NJ, DE, ME",Political Action Committee,Other,Cheektowaga,NY,14225.0,,2500.0,0.0,0.0,Check,2500.0
+214,2017,326,"de Blasio, Bill",2017-11-05,Van Bramer 2017,Political Action Committee,Manhattan,New York,NY,10016.0,,4950.0,0.0,0.0,Check,4950.0
+215,2017,326,"de Blasio, Bill",2017-11-07,Voice of Teachers for Educatio,Political Action Committee,Other,Latham,NY,12110.0,,4950.0,0.0,0.0,Check,4950.0

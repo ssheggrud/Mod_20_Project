@@ -1,0 +1,1496 @@
+Election,CandidateID,CandidateName,ContributionType,City,State,ZipCode,Amount,PurposeCode,Purpose
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10018,1300,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10018,500,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Limited Liability Company,Bronx,NY,10472,350,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,5.39,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,16.13,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,38.26,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,27.76,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,5.25,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,3,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,2.25,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,26.78,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,1.65,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,4.88,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,3,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,1.49,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,1.49,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,5.24,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,3.74,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,13.64,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,8.99,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,10.64,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,17.24,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,10.12,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,3.74,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,9.42,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,9.37,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,8.69,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Somerville,MA,2144,-1.49,,
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,3244.3,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,1811.61,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,142.9,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,5717.24,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,853.94,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,264.61,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,319.13,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,488.72,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,1992.66,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,3086.95,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,3882.99,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,7274.23,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,265.91,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,543.42,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,1532.06,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,832.47,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,2099.38,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,1250.76,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,2236.01,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,1357.73,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,7239.51,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,4046.83,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,10849.44,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,6706.28,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,6268.53,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,3793.82,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,8385.47,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,4998.74,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,4312.03,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,7231.57,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,3105.19,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,West Somerville,MA,2144,4951.54,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,279.83,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,499.65,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,634.36,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,241.15,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,17.25,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,3.15,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,1.28,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,51.64,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,189.45,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,48.42,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,212.31,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,23.85,Political Contributions,Polit Contribs.
+2021,2279,"Loree,Sutton",Corporation,Somerville,MA,,15.93,Political Contributions,Polit Contribs.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15053.69,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,526.08,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,1125,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,750,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,750,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2978.37,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2904.82,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2512.7,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2608.9,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,2500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,BOWLING GREEN,NY,10004,15000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,526.8,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,5931.6,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,184.58,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,76.05,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,126.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,1313.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,1156.95,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,252.9,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,994.95,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,25,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,126.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,126.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,168.83,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,75.83,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,15,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,75.83,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,141.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,141.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,75.83,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,879.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,70.05,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,141.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,2874.06,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,148.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,151.95,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,5610.61,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,382.09,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,97.65,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,165.95,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,493.94,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,169.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,6481.17,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,7177.73,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,584.97,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,176.45,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,188.26,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,603.75,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,6647.78,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,848.24,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,6340.31,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,597.82,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,El Paso,TX,79912,188.26,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11221,100,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Forest Hills,NY,11375,300,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,1193.48,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,3000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,3000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,3000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,3000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,3000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Rego Park,NY,11374,8000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10016,1000,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,165.12,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,10,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,15,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,50,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,0.25,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,0.75,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,15,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,0.75,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,0.5,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,1.5,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,1.46,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,1.25,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,2.17,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,3.09,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,5.68,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,12.22,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,85.92,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,10,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,133.86,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,34.71,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10001,-50,,
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,12.02,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,14.14,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,58.62,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,78.59,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,29.39,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,2.17,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,14.14,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,82.62,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,14.14,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,337.33,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,18.27,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,21.76,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,14.14,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,254.07,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,234.03,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,230.05,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,21.76,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,30.97,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,214.48,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,11.69,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,19.59,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,178.97,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,184,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,485.42,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,50.07,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,105.49,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,105.49,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,21.94,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,14.14,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Seattle,WA,98109,-105.49,,
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,19.56,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,71.72,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,27.69,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,178.09,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,34.83,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,260.21,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,86.01,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,86.01,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,48.99,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,42.46,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,43.54,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,39.08,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,139.01,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,54.15,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,36.64,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,57.53,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,178.09,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,21.73,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,229.87,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,-48.99,,
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,-42.46,,
+2021,1991,"Aaron,Foldenauer",Corporation,Seattle,WA,98109,-86.01,,
+2021,2303,"Shaun,Donovan",Corporation,DFW Airport,TX,75261,270.4,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,DFW Airport,TX,75261,258.4,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,DFW Airport,TX,75261,258.4,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20001,244,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20001,99,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20001,-122,,
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20001,-19,,
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20001,-13,,
+2021,2279,"Loree,Sutton",Individual,E ATLANTC BCH,NY,11561,1040.49,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,83.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,115.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,357.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,36.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,83,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,90.7,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,373,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,74.2,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,53.5,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,290.6,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,97.34,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,7,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,68.9,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,256,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,59.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,17.5,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,30,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,12.5,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,51.2,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,373.12,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,453.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,87.2,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,436.2,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,26.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,436.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,495.3,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,35.3,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,557.28,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,740.1,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,100.6,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,256.5,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,489.8,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,320.5,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,351.02,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,602.52,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,New Orleans,LA,70112,4506.38,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10013,95.75,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Chicago,IL,60610,100,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,20.11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,7.71,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,14.69,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,36.21,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,22.29,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,28.05,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,12868.06,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,36471,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,36471,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,12023,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,34671.91,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,The Bronx,NY,10454,217.75,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Limited Liability Company,The Bronx,NY,10454,2084.96,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,3,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,8,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,,,,0.02,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10018,356.3,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10018,356.3,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10018,38.11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11215,27.1,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10036,150,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,5000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,1500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,236.02,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,5000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,5000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,5000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,9183.33,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,1366.67,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,The Bronx,NY,10458,5000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,37.02,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,20,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20011,1284,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10001,43.66,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,18.18,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,13.88,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,19.84,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,20.87,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,14.7,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,22.61,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,16.46,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,15.62,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,17.9,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,29.24,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,18.95,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,20.85,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,16.98,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,17.98,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10463,325,Printing Expenses,Print Ads
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11217,185.08,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55423,76.2,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55423,86.02,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55423,136.06,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55423,81.63,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55423,97.98,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Individual,New York,NY,10036,1682,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2279,"Loree,Sutton",Individual,New York,NY,10036,2932.5,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2279,"Loree,Sutton",Individual,New York,NY,10036,2000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10007,24.22,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Other,New York,NY,10004,100,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Other,New York,NY,10004,100,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,25.25,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,25.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,9.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,14.75,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,16250,Polling Costs,Polling Costs
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10465,1426.5,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10010,17.88,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Parsippany,NJ,7054,346.91,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Individual,Fredericksburg,VA,22408,128.45,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10028,57.89,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10028,45.35,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10023,100.68,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10012,60.05,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Visalia,CA,93292,500,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Visalia,CA,93292,500,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Visalia,CA,93292,500,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Visalia,CA,93292,500,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Visalia,CA,93292,500,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Cheltenham,PA,19012,911.6,Campaign Literature,Campgn Lit.
+2021,2303,"Shaun,Donovan",Corporation,Cheltenham,PA,19012,720.8,Campaign Literature,Campgn Lit.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10013,19.34,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11238,21.44,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11238,37.61,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11238,30.29,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Edgewater,NJ,7020,500,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,25,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Sioux Falls,SD,57117,15,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,PECK SLIP,NY,10038,12.25,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,PECK SLIP,NY,10038,11.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,PECK SLIP,NY,10038,12,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11201,650,Printing Expenses,Print Ads
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11201,650,Printing Expenses,Print Ads
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11201,600,Printing Expenses,Print Ads
+2021,2279,"Loree,Sutton",Individual,Brooklyn,NY,11201,10000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,5000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,5000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,5000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,4000,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,640.08,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,389.92,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,36.76,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10021,19.76,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,Brooklyn,NY,11216,16.24,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11212,3500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Corporation,Edgewater,NJ,7020,500,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10005,153.93,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Corporation,Stillwater,NY,12170,10000,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Stillwater,NY,12170,10000,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Stillwater,NY,12170,15500,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Stillwater,NY,12170,10000,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,17.38,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,22.77,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,14.86,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,15.42,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,4.34,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10456,200,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Hapeville,GA,30354,300.4,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Shoreview,MN,55126,72,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Shoreview,MN,55126,428.09,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Shoreview,MN,55126,399.7,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Shoreview,MN,55126,-399.7,,
+2021,1160,"Ruben,Diaz Jr.",Party Committee,Forest Hills,NY,11375,140,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Party Committee,Forest Hills,NY,11375,350,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10467,100,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,1755.35,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,510.04,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,238.71,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,216.14,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,297.8,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,324.37,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,277.09,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,378.23,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,263.21,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,280.01,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,960.4,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,465.91,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,616.57,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,450.76,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,385.26,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,273.21,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,731.86,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Candidate,Bronx,NY,10473,209.41,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,305.3,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,165,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,50.05,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,55,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,55,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,1500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Individual,New York,NY,10003,1681.92,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Flushing,NY,11361,2541.29,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,12.48,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,12.98,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94107,99,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94107,119.88,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94107,119.88,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,19.99,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94107,-19.99,,
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,44,Postal Expenses,Postage
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,3.8,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10005,4.33,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10005,9,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,10.33,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Jamaica,NY,11432,13.9,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,13.56,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,7019.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,2469.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,575.14,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,5850,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,7050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,7019.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,7019.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,432.21,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Washington,DC,20003,432.21,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Corporation,New York,NY,10022,10000,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,New York,NY,10022,15035.47,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,434.41,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,53.14,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,35.78,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,163.31,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,99.22,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10475,1500,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10014,102.19,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,92.5,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,106.55,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,1350,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,174.31,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11237,4500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11201,50,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11201,76.41,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,25,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,25,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,25,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,35,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,50,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,50,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,75,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,40,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,125,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,175,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,West Menlo Park,CA,94025,175,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11241,52.26,Campaign Literature,Campgn Lit.
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11241,158.41,Printing Expenses,Print Ads
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,2.18,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,2.18,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10028,66.7,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10028,82.77,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Oakland,CA,94612,32250,Polling Costs,Polling Costs
+2021,2303,"Shaun,Donovan",Corporation,Oakland,CA,94612,15500,Polling Costs,Polling Costs
+2021,2303,"Shaun,Donovan",Corporation,Oakland,CA,94612,39000,Polling Costs,Polling Costs
+2021,1991,"Aaron,Foldenauer",Candidate,New York,NY,10006,34.34,Advance Repayment,Advance Repaymnt
+2021,1991,"Aaron,Foldenauer",Candidate,New York,NY,10006,151.37,Advance Repayment,Advance Repaymnt
+2021,1991,"Aaron,Foldenauer",Candidate,New York,NY,10006,65,Advance Repayment,Advance Repaymnt
+2021,1991,"Aaron,Foldenauer",Candidate,New York,NY,10006,65,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10455,756.32,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,34.83,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Corporation,Alexandria,VA,22314,6050,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Alexandria,VA,22314,6354.2,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Alexandria,VA,22314,5977,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Alexandria,VA,22314,6315,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,75.48,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,196.06,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,215.86,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,168.96,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,78.26,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,107.88,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,335.76,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,238.49,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,52,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Scottsdale,AZ,85260,-335.76,,
+2021,2303,"Shaun,Donovan",Corporation,Scottsdale,AZ,85260,40.17,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,189,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,81.09,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,109.74,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,133.91,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,159.48,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,169.85,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Mountain View,CA,94043,173.62,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11217,6000,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11217,7000,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11217,7000,Petition Expenses,Petition Expns.
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10457,500,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10033,29.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10033,36.25,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10033,34,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,PECK SLIP,NY,10038,35.84,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Chicago,IL,60602,367.85,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10040,21.51,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10040,46.16,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,262.2,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,San Antonio,TX,78256,26.25,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Antonio,TX,78256,28.55,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Corporation,Rosslyn,VA,22209,5000,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Rosslyn,VA,22209,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,482.38,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,473.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,473.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,473.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10007,473.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Corporation,PECK SLIP,NY,10038,29.23,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11201,500,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Palo Alto,CA,94304,223.17,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Palo Alto,CA,94304,209.42,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11232,68.79,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,18250,Polling Costs,Polling Costs
+2021,2303,"Shaun,Donovan",Limited Liability Company,Takoma Park,MD,20901,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Takoma Park,MD,20901,10000,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Salt Lake City,UT,84123,119.27,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Corporation,Salt Lake City,UT,84123,145.38,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10021,614.38,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Limited Liability Company,Woodland Hills,CA,91364,5000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Woodland Hills,CA,91364,5765,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Woodland Hills,CA,91364,4361,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Woodland Hills,CA,91364,4200,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,Austin,TX,78750,17.73,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,San Diego,CA,92116,500,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Corporation,San Diego,CA,92116,500,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Corporation,San Diego,CA,92116,500,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Corporation,San Diego,CA,92116,935.48,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,Hartford,CT,,765,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2279,"Loree,Sutton",Other,Hartford,CT,,582.5,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2279,"Loree,Sutton",Other,Hartford,CT,,42,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,471.1,Advance Repayment,Advance Repaymnt
+2021,2563,"Sara,Tirschwell",Corporation,Philadelphia,PA,19106,9482.03,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Philadelphia,PA,19106,5000,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Philadelphia,PA,19106,5000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Individual,,,,3000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Individual,Jamaica,NY,11436,319.38,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Corporation,Long Island City,NY,11101,335.4,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Jackson Heights,NY,11372,35.86,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Jamaica,NY,11432,13.05,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11249,33.59,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,PECK SLIP,NY,10038,35.38,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10128,15,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,Chester,VA,23831,61.42,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,25.68,Other,Other: explntion
+2021,2279,"Loree,Sutton",Individual,Brooklyn,NY,11209,95.47,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10462,500,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Individual,Brooklyn,NY,11206,317.45,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Corporation,Midvale,UT,84047,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,1750,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,4550,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,727.18,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,1550,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,4550,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10075,4550,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10002,20.9,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Corporation,New Fairfield,CT,6812,80000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10011,1000,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10038,48.38,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Howard Beach,NY,11414,51.98,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,New Orleans,LA,70115,631.4,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,1433.35,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,356.85,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,2494.84,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Garden City South,NY,11530,7500,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,Garden City South,NY,11530,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,141.52,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4973.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,1823.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,246.91,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,482.38,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,7666.66,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4333.33,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4333.33,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4333.33,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4973.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,374.48,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,132.42,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4973.15,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,56.64,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,297.18,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Jersey City,NJ,7302,66.02,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,3.26,Other,Other: explntion
+2021,2279,"Loree,Sutton",Individual,New York,NY,10023,56.57,Advance Repayment,Advance Repaymnt
+2021,2279,"Loree,Sutton",Individual,Brooklyn,NY,11225,152.78,Advance Repayment,Advance Repaymnt
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,7812.5,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,22.75,Postal Expenses,Postage
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,68.25,Postal Expenses,Postage
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,91,Postal Expenses,Postage
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,91,Postal Expenses,Postage
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,169.04,Postal Expenses,Postage
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,1500,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,9103.5,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,SALT LAKE CITY,UT,84111,3750,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Bronx,NY,10451,9.24,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,15950,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,5450,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,8225.81,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,15000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,15950,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,15950,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19147,15950,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1160,"Ruben,Diaz Jr.",Corporation,Culver City,CA,90232,15,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Culver City,CA,90232,240,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10466,200,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,The Bronx,NY,10466,200,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11221,3000,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,Midlothian,VA,23112,28.93,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Redmond,WA,98052,76.2,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11238,17.67,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Jamaica,NY,11411,400,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11218,43.49,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Hoboken,NJ,7030,1476.11,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Hoboken,NJ,7030,133.28,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Jamaica,NY,11418,39.15,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10454,1114.77,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10454,193.31,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10454,1114.77,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,21579.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,4000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,4000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,2760.64,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,6437.1,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,9402.15,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,12654,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,18956.65,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Albany,NY,12207,21777.9,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,Jamaica,NY,11435,7.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10017,14.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,127,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,8.25,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,127,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,127,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,127,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,127,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,20,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,16.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,6.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,-5.5,,
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10036,35,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Steamboat Springs,CO,80487,22200,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11211,185.09,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,400,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,17500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,15500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,15560.16,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,2500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,13000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,40000.45,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,1500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,1200,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,2710.55,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,45000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,3656,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,1344,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,5000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,37499.84,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Washington,DC,20036,-5000,,
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,45,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,15.96,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,0.99,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,15.96,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,15.96,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Party Committee,New York,NY,10004,18000,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,Schenectady,NY,12305,1375,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,10100.59,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,3000,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,983.19,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2250,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2250,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2250,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,599.06,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,979.88,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2449.69,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,653.25,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,4409.43,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,163.31,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,489.93,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,1469.82,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,653.26,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,8328.96,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,653.25,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,653.26,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2177.5,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,272.19,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,272.19,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2177.5,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,272.19,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Washington,DC,20005,2177.5,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1200,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1306.5,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1306.5,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1306.5,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Washington,DC,20005,1306.5,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,146.12,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,63.97,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,360.74,Advance Repayment,Advance Repaymnt
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,2250,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,330.49,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10014,7500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Corporation,Newark,NJ,7105,15.5,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Party Committee,Staten Island,NY,10314,500,Other,Other: explntion
+2021,2279,"Loree,Sutton",Individual,Los Angeles,CA,90049,10000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Individual,Los Angeles,CA,90049,1440,Other,Other: explntion
+2021,2279,"Loree,Sutton",Individual,Los Angeles,CA,90049,2500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Individual,Los Angeles,CA,90049,2470,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10041,0.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10041,3,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,New York,NY,10041,6,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,,,,108.75,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,,,,80.01,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10007,60,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10007,162,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,7110.96,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,2210.96,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,7475,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,8799.77,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,7110.96,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Philadelphia,PA,19121,432.21,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10013,88.13,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10036,65.32,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,The Bronx,NY,10455,168.74,Other,Other: explntion
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,4000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,3500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,3000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,3000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,3000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,2000,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,2500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Limited Liability Company,Ho-Ho-Kus,NJ,7423,3000,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,Flushing,NY,11354,19.74,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11215,14,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11215,14,Postal Expenses,Postage
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,100.17,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,5050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,1900,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,723.24,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,2967.74,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,4550,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,5050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,New York,NY,10038,5050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10461,386.5,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10461,250,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10461,809.98,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11224,10.34,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,12.73,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10017,55.9,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,PECK SLIP,NY,10038,7500,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Limited Liability Company,Bronx,NY,10454,800,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Limited Liability Company,Bronx,NY,10454,580,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,250.72,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,5.5,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,31.19,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,26.99,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,25.54,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,23.69,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,25.08,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,39.59,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,36.79,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10038,24.43,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,31.42,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Norwalk,CT,6854,295.96,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Bronx,NY,10458,20.25,Other,Other: explntion
+2021,2279,"Loree,Sutton",Individual,Cliffside Park,NJ,7010,1200,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,30,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,25,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,20,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,30,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Other,Brooklyn,NY,11217,30,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10039,1750,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10039,857.5,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10039,2424.5,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10039,2331.1,Campaign Consultants,Campgn Consuls.
+2021,2563,"Sara,Tirschwell",Individual,New York,NY,10039,2782.5,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Individual,New York,NY,10075,3500,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Corporation,Stamford,CT,6902,64.1,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Stamford,CT,6902,50.41,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Stamford,CT,6902,38.82,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Individual,Cleveland,OH,44114,100,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Individual,Cleveland,OH,44114,330.9,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Individual,Cleveland,OH,44114,166.8,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10023,4500,Office Rent,Office Rent
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10023,4500,Office Rent,Office Rent
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,10,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,42.01,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,29.4,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11206,-10,,
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10472,500,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10472,275,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11225,6000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11225,8270,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11225,8270,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11225,-8270,,
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,7000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,7000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,7000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,8100,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,8100,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11225,4200.12,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,5050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,1900,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,2032.26,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,4500,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,4812.98,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,4812.98,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,5050,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Cary,NC,27513,42.25,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,60.28,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,1200,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,192.4,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,178.4,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,50,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Individual,Pompano Beach,FL,33067,4000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10462,80.51,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10462,101.82,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Individual,Bronx,NY,10462,74.21,Advance Repayment,Advance Repaymnt
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10026,30.48,Other,Other: explntion
+2021,2563,"Sara,Tirschwell",Limited Liability Company,Boston,MA,2196,2307.18,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,Brooklyn,NY,11233,95.83,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,Brooklyn,NY,11233,59.12,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,715.26,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,539.61,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,94.65,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,74.24,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,208.56,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,100.52,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,115.07,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,79.5,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,127.96,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Bayside,NY,11361,1250,Printing Expenses,Print Ads
+2021,1160,"Ruben,Diaz Jr.",Other,Bayside,NY,11361,1600,Printing Expenses,Print Ads
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11215,63,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11215,245,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,82.26,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Gibsonia,PA,15044,600,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,Gibsonia,PA,15044,450,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10017,30,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10017,10,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10017,10,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10017,10,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,New York,NY,10017,-30,,
+2021,2279,"Loree,Sutton",Individual,New York,NY,10007,1600,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Individual,Kew Gardens,NY,11415,1500,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10027,4463.01,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10027,4463.01,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,Nashville,TN,37206,19,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11215,54.19,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,15.46,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,20.31,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,20.52,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,2.75,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10022,8.6,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10036,13.28,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,195.33,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,663.09,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,1074.53,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,125.4,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,906.52,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,516.09,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,790.16,Advance Repayment,Advance Repaymnt
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10025,5000,Campaign Consultants,Campgn Consuls.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10113,175,Political Contributions,Polit Contribs.
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,108.24,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,796.13,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,1557.94,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,3923.21,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,159.65,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,27.73,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,111.03,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,1167.3,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,15,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,1504.92,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,172.47,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,10.63,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,542.25,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,655.19,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,587.62,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,888.94,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,11.52,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,51.31,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,359.39,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,159.99,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,834.3,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,San Francisco,CA,94110,15,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,New York,NY,10038,3000,Professional Services,Prof. Srvcs.
+2021,2303,"Shaun,Donovan",Corporation,New York,NY,10022,250,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Other,Yonkers,NY,10704,500,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,BOWLING GREEN,NY,10004,94.26,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11215,25000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,86.07,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,106.45,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,36.47,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,97.83,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,171.51,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55403,65.96,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,17.46,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,391.27,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,228.57,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,69.12,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,32.65,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,87.07,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,327.59,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,387.91,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Minneapolis,MN,55403,31.33,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,109.64,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,34.57,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,26.1,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,65.33,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,66.04,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11217,-32.65,,
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,10.56,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,13.3,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,11.8,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,10.3,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,16.3,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10004,7.3,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,3,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,40,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,13,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,73,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,13,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,13,Other,Other: explntion
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,60,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,30,Office Expenses,Office Expenses
+2021,2279,"Loree,Sutton",Other,New York,NY,10005,10,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Staten Island,NY,10314,783.88,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Staten Island,NY,10314,45,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Philadelphia,PA,19130,2470.64,Campaign Literature,Campgn Lit.
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11222,500,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Other,Jericho,NY,11753,650,Printing Expenses,Print Ads
+2021,1991,"Aaron,Foldenauer",Corporation,Brooklyn,NY,11201,59.16,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10022,650.87,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Party Committee,Flushing,NY,11364,200,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Atlanta,GA,30308,239.07,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Atlanta,GA,30308,16.32,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Limited Liability Company,Atlanta,GA,30308,27.19,Campaign Mail,Campgn Mlngs
+2021,2303,"Shaun,Donovan",Limited Liability Company,Atlanta,GA,30308,70.65,Campaign Mail,Campgn Mlngs
+2021,2303,"Shaun,Donovan",Limited Liability Company,Atlanta,GA,30308,168.44,Office Expenses,Office Expenses
+2021,2563,"Sara,Tirschwell",Limited Liability Company,St Paul,MN,55118,28913.95,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Limited Liability Company,St Paul,MN,55118,1500,Fundraising,Fundraising
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10465,500,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10465,500,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10465,4892.84,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10465,978.57,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10465,5382.13,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,Oakland,CA,94612,351,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,Oakland,CA,94612,1369.54,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11220,368.84,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11220,701.47,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,Brooklyn,NY,11220,435.5,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,133.03,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,Garden City South,NY,11530,330.01,Campaign Literature,Campgn Lit.
+2021,2279,"Loree,Sutton",Corporation,Garden City South,NY,11530,179.23,Campaign Literature,Campgn Lit.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,12500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,12500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,12500,Campaign Consultants,Campgn Consuls.
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,2681.99,Advance Repayment,Advance Repaymnt
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,10000,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,New York,NY,10004,967.67,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,24.86,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,15.25,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,28.44,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,1,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,18.57,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,17.61,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,23.98,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,62.44,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,16.86,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,-1,,
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94105,-18.57,,
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94158,20.93,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,San Francisco,CA,94158,16.28,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Kenosha,WI,53158,281.89,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Kenosha,WI,53158,141.76,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10023,11,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Other,New York,NY,10023,4.55,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10006,4.33,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10039,17.42,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,136,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,140,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,22,Postal Expenses,Postage
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,150,Office Expenses,Office Expenses
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,81.45,Postal Expenses,Postage
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,19.8,Postal Expenses,Postage
+2021,2303,"Shaun,Donovan",Individual,Brooklyn,NY,11231,5000,Campaign Consultants,Campgn Consuls.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,18.84,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,10.41,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,1.63,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,26.07,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,14.31,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,49.13,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,0.5,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,1.53,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,0.5,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,11.98,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,50,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,0.5,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,5.22,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,4.81,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,0.5,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,48.9,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,4.6,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,4.91,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,5.9,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,1.03,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,0.5,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,3.57,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,20.71,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,11.75,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,10.11,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,27.25,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,18.19,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,22.63,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,9.7,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,22.27,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Symmes Township,OH,45249,17.91,Professional Services,Prof. Srvcs.
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,991.17,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,490.65,Other,Other: explntion
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,1041.93,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,387.38,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,32.94,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,8.41,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,3.58,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,97.6,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,324.6,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,53.11,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,382.69,Fundraising,Fundraising
+2021,2279,"Loree,Sutton",Corporation,Cincinnati,OH,45249,47,Fundraising,Fundraising
+2021,2563,"Sara,Tirschwell",Corporation,Baltimore,MD,21264,10000,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,Baltimore,MD,21264,45729.3,Professional Services,Prof. Srvcs.
+2021,2563,"Sara,Tirschwell",Corporation,Baltimore,MD,21264,23886,Professional Services,Prof. Srvcs.
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,236.68,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,237.74,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,237.48,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,237.38,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,251.26,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,250.9,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,250.98,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,253.21,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,234.25,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,232.04,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,252.13,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,252.54,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,252.8,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,254.19,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,233.19,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,250.67,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,251.62,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,255.68,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,254.38,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,263.7,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,263.78,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,263.15,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,262.96,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,261.04,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,262.28,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Albany,NY,12212,108.69,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,226.16,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,226.16,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,261.3,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,246.05,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.54,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.54,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.64,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.64,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.64,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.72,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.72,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,243.68,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,352.33,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,309.42,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,309.54,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,309.07,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,312.06,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,390.35,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,312.09,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,317.79,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,276.53,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Newark,NJ,7101,276.23,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,1160,"Ruben,Diaz Jr.",Corporation,Bronx,NY,10451,950,Office Rent,Office Rent
+2021,2303,"Shaun,Donovan",Corporation,The Bronx,NY,10453,1000,Petition Expenses,Petition Expns.
+2021,2303,"Shaun,Donovan",Corporation,The Bronx,NY,10453,4500,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,26.64,Professional Services,Prof. Srvcs.
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,32.64,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,230.16,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,39.18,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,Waltham,MA,2451,56.77,Campaign Literature,Campgn Lit.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10158,65.52,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,Bentonville,AR,72716,1070.98,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,Bentonville,AR,72716,-208.73,,
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,58.89,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,32.52,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,34.66,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,20.05,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,22.78,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,19.24,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,19.51,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,24.36,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,27.13,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,18.51,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,29.4,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,27.54,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,19.51,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,31.67,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,15.65,Petition Expenses,Petition Expns.
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,42.24,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,30.72,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,35.21,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Limited Liability Company,New York,NY,10006,24.95,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,2275.49,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,9014.85,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,283.08,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,631.48,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,479.05,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,2874.3,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,2090.4,Campaign Literature,Campgn Lit.
+2021,2303,"Shaun,Donovan",Corporation,South Plainfield,NJ,7080,1948.86,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Corporation,Staten Island,NY,10303,5653.16,Fundraising,Fundraising
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,62.71,Other,Other: explntion
+2021,1991,"Aaron,Foldenauer",Corporation,New York,NY,10007,27.86,Other,Other: explntion
+2021,1160,"Ruben,Diaz Jr.",Other,Brooklyn,NY,11225,500,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,425000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,75000,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,40000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,75490,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,75490,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,75490,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,75490,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,53571.43,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,71187.57,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,124758.77,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,114000,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,1000000,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,10000,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,500000,Television Ads,Television Ads.
+2021,2303,"Shaun,Donovan",Limited Liability Company,New York,NY,10013,36461.39,Campaign Consultants,Campgn Consuls.
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7475,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,2575,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,14000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7000,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7475,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7475,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,2303,"Shaun,Donovan",Individual,Fort Lesley J. McNair,DC,20024,7475,Campaign Workers Salaries,Campgn Wrkrs $$
+2021,1991,"Aaron,Foldenauer",Corporation,San Francisco,CA,94110,326.63,Office Expenses,Office Expenses
+2021,1160,"Ruben,Diaz Jr.",Other,Bronx,NY,10451,10899.92,Fundraising,Fundraising
+2021,2303,"Shaun,Donovan",Corporation,Brooklyn,NY,11201,760.31,Other,Other: explntion
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,82.41,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,51.2,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,15.35,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,66.55,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,4.46,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,40.96,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,81.9,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,81.9,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,81.9,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,81.9,Office Expenses,Office Expenses
+2021,2303,"Shaun,Donovan",Corporation,San Jose,CA,95113,81.9,Office Expenses,Office Expenses
