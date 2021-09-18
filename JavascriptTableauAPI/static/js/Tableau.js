@@ -14,7 +14,7 @@ var viz;
 // called on load. onFirstInteractive is called line 25 is run. 
 function initViz() {
   var placeholderDiv = document.getElementById("Div1"),
-  vizURL = "https://public.tableau.com/views/Elections_16312857232880/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link";
+  vizURL = "https://public.tableau.com/views/ElectionsFinanceData/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link";
   options = {
     hideTabs: true,
     onFirstInteractive: function () {
@@ -51,7 +51,15 @@ function switchToNextTab(){
         })
         break;
       case "Dashboard 2":
-        console.log("Dashboard 2 is here")
+        workbook.activateSheetAsync("Dashboard 3")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
+        break;
+      case "Dashboard 3":
+        console.log("Dashboard 3 is here")
         const button = document.getElementById("btnNext");
         button.disabled = true;
     };
@@ -74,6 +82,16 @@ function switchToPreviousTab(){
         const button = document.getElementById("btnPrevious");
         button.disabled = true;
         break;
+        case "Dashboard 3":  
+
+        workbook.activateSheetAsync("Dashboard 2")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
+        break;
+
     };
 };
 

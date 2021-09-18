@@ -36,7 +36,7 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm
 
 Refer to the below link to access our tableau dashboard:
 
-https://public.tableau.com/app/profile/pooja.srivastava3629/viz/Elections_16312857232880/Story1?publish=yes
+https://public.tableau.com/app/profile/pooja.srivastava3629/viz/ElectionsFinanceData/Dashboard1
 
 **Who is our Target Audience?**
 
