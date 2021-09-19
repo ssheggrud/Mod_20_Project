@@ -7,7 +7,7 @@
     background-image: url("../images/image.jpeg");
     background-size: 100%;
     text-align: center;
-    text-shadow: 1px 1px;
+    text-shadow: 1px 1px #FFFFFF;
     font-family: 'Times New Roman', Times, serif !important;
     color: black;
   }
