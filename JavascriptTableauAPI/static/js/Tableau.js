@@ -13,6 +13,8 @@ var viz;
 
 // called on load. onFirstInteractive is called line 25 is run. 
 function initViz() {
+  const button5 = document.getElementById("btnPrevious");
+  button5.disabled = true;
   var placeholderDiv = document.getElementById("Div1"),
   vizURL = "https://public.tableau.com/views/ElectionsFinanceData/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link";
   options = {
@@ -48,6 +50,8 @@ function switchToNextTab(){
           activeSheet = workbook.getActiveSheet();
           console.log("hello there");
           console.log( activeSheet.getName());
+          const button6 = document.getElementById("btnPrevious");
+          button6.disabled = false;
         })
         break;
       case "Dashboard 2":
@@ -127,6 +131,8 @@ function switchToPreviousTab(){
           activeSheet = workbook.getActiveSheet();
           console.log("hello there");
           console.log( activeSheet.getName());
+          const button4 = document.getElementById("btnNext");
+         button4.disabled = false;
         })
         break;
 
