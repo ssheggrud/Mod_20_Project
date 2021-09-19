@@ -58,10 +58,28 @@ function switchToNextTab(){
           console.log( activeSheet.getName());
         })
         break;
-      case "Dashboard 3":
-        console.log("Dashboard 3 is here")
-        const button = document.getElementById("btnNext");
-        button.disabled = true;
+        case "Dashboard 3":
+        workbook.activateSheetAsync("Dashboard 4")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
+        break;
+        case "Dashboard 4":
+        workbook.activateSheetAsync("Dashboard 5")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+          const button3 = document.getElementById("btnNext");
+          button3.disabled = true;
+        })
+        break;
+      //case "Dashboard 5":
+        //console.log("Dashboard 5 is here")
+        //const button = document.getElementById("btnNext");
+        //button.disabled = true;
     };
 };
 
@@ -81,10 +99,30 @@ function switchToPreviousTab(){
         })
         const button = document.getElementById("btnPrevious");
         button.disabled = true;
+        const button1 = document.getElementById("btnNext");
+        button1.disabled = false;
         break;
         case "Dashboard 3":  
 
         workbook.activateSheetAsync("Dashboard 2")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
+        break;
+        case "Dashboard 4":  
+
+        workbook.activateSheetAsync("Dashboard 3")
+        .then(function (sheet){
+          activeSheet = workbook.getActiveSheet();
+          console.log("hello there");
+          console.log( activeSheet.getName());
+        })
+        break;
+        case "Dashboard 5":  
+
+        workbook.activateSheetAsync("Dashboard 4")
         .then(function (sheet){
           activeSheet = workbook.getActiveSheet();
           console.log("hello there");
