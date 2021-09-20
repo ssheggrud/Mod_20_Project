@@ -131,9 +131,11 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV (Transformed dataframes into new CSVs can be found in **Resources > Clean CSVs as of Sept 11**)
 
-•	Export the clean data frame tables to connect with the RDS server and Postgres SQL.
+•	Export the clean data frame tables for each election year to connect with the RDS server and Postgres SQL.
 
 •	Create the join on committees and individual tables to prepare for machine learning.
+
+• Merge the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year.
 
 •	Determining columns necessary for ML
 
