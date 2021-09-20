@@ -87,9 +87,9 @@ Please see the following screen shot that shows the home page of where we have o
 
 The steps taken to extract, transform, and load the data for analysis are as follows:
 
-•	From the New York City Campaign Finance Board webpage download the previous six election years from 2001,2003,2005,2009,2013,2017, and the current 2021 data sets that contain individual and committee donation contributions per candidate as separate CSVs.
+•	From the New York City Campaign Finance Board webpage download the previous six election years from 2001,2003,2005,2009,2013,2017, and 2021 data sets that contain individual donation data and committee donation data per election year as local CSVs.
 
-•	Extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board.
+•	Also extract the previous six election years for each candidate’s expenditures as separate data sets from the New York City Campaign Finance Board.
 
 •	Study each of the 18 Excel data sets and determine which columns hold value for our final outcome. (All Raw CSVs can be found within **Resources** > **Raw CSVs** Folder)
 
@@ -97,17 +97,17 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/81484054/132890400-b199f695-83da-4471-b0d1-9badb392497b.png)
 
-•	Upload each election year csv for individual donations, committee donations, and candidate expenditures within Google Colab.
+•	Upload each election year CSV for individual donations, committee donations, and candidate expenditures within Google Colab.
 
 •	Perform Pyspark functions of reading CSVs in data frames, dropping columns, changing data types, changing column names, converting the value names within each column, filter the data frames to display only the mayor elections and participants within the mayor election year, create a total sum column that’s added by the donation amount, candidate match amount, and previous donation amount
 
-•	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV (Transformed dataframes into new CSVs can be found in **Resources > Clean CSVs as of Sept 11**)
+•	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV (Transformed dataframes into new CSVs can be found in **Resources** )
 
-•	Export the clean data frame tables for each election year to connect with the RDS server and Postgres SQL.
+•	Export and bridge the clean data frame tables for each election year to connect with the RDS server and Postgres SQL.
 
 •	Create the join on committees and individual tables to prepare for machine learning.
 
-• Merge the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year.
+• Merge/Union the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year.
 
 •	Determining columns necessary for ML
 
