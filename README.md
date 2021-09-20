@@ -129,24 +129,6 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 **ERD CURRENT TABLES**
 ![Untitled](https://user-images.githubusercontent.com/81484054/133953502-3399e1d6-d4a0-420a-9939-d5b8aebc926c.png)
 
-------------************************************************---------------------------------------------------------
-
-## Week 1 Achievements
-
-- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates.
-- Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
-- At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add each years election results manually to a manually sourced excel as as individual column. We will name this column "Won/Elected".
-- We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
-- We have successfully identified roles for all the team members and have a good outline for our project.
-
-## Week 2 Achievements
-
- - We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
- - We have come up with few dashboards and a storyboard in Tableau.
- - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
- - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
- - Static table, join script and other DB scripts were added to the DBScripts folder.
- - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
 
 ## ML Model
 ### Overview
@@ -193,6 +175,26 @@ To test for accuracy, we applied the R-squared function to our predictions. As w
 - 2017: 0.92
 - 2021: 0.88
 These high correlation results indicates that there is a correlation between the features we selected for our model and the the total amount of money raised in a particular zip code. The rather high correlation calculated by our model can also indicate that there were bugs in our code that led to some kind of imbalance that skewed our data. Further analyses must be done before we can use these as conclusive results. We plan on also calculating Root Mean Squared Error (RMSE), Residual Standard Error (RSE), Mean Absolute Error (MAE) to further analyze the accuracy of our model.
+
+
+------------************************************************---------------------------------------------------------
+
+## Week 1 Achievements
+
+- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates.
+- Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
+- At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add each years election results manually to a manually sourced excel as as individual column. We will name this column "Won/Elected".
+- We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
+- We have successfully identified roles for all the team members and have a good outline for our project.
+
+## Week 2 Achievements
+
+ - We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
+ - We have come up with few dashboards and a storyboard in Tableau.
+ - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
+ - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
+ - Static table, join script and other DB scripts were added to the DBScripts folder.
+ - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
 
 ### Week 3: 
 - Tweaking the website to best display the Tableau data. HTML and CSS files were edited to better display the API from Tableau.
