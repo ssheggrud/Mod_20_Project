@@ -19,7 +19,11 @@
   .grey{
     background-color :lightblue;
   }
-
+  .footer1 {
+    background-color :lightblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
   .ScrollStyle
 {
     max-height: 150px;
@@ -27,8 +31,3 @@
     max-width: 150px;
     overflow-x: scroll;
 }
-  .footer1 {
-    background-color :lightblue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-  }
