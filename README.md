@@ -170,7 +170,7 @@ To determine which features we deemed were necessary to test our model, we creat
 #### Encoding
 To encode our data we used sklearn's label encoder. We encoded all non-numerical data within our dataset with sklearn's fit_transform function to ensure our model would be able to read it. We did not encode the amount, matched amount, expenditures, and total amount, as we needed them unencoded to be able to visually analyze our data and there did not seem to be any major effects to our model without such encoding.
 
-#### Model Choice
+### Model Choice
 We used a Random Forest Regressor for our model. We chose this model for a variety of reasons, which are as follows:
 - Able to work around outliers
 - The training and prediction speeds are quick
@@ -180,10 +180,10 @@ The model is not without it's drawbacks, as it can be difficult to interpret, it
 
 Initially, we were using the Random Forest Classifier for our model as we were attempting to create a classification model which can predict the outcomes of an election but we decided that a regression model to predict the total amount of money raised would be more realistic to complete in the allotted time. We therefore decided to change our model to the current one.
 
-#### Training and testing
+### Training and testing
 We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated. 
 
-#### Accuracy Score
+### Accuracy Score
 To test for accuracy, we applied the R-squared function to our predictions. As we tested the model on four datasets, the R-squared values are as follows:
 - 2005: 0.71
 - 2009: 0.92
