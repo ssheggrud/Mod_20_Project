@@ -104,12 +104,6 @@ Please see the following screen shot that shows the home page of where our data 
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/81484054/132953388-e322ee90-fc3c-4f4c-9e1b-708fa13c51a2.png)
 
-**Entity Relationship Diagram:**
-
-![ERDOUTLINE] (./ERD/ERDOutline.png)
-![ERDCURRENTTABLES] (./ERD/ERDCurrentTables.png)
-
-Work in progress.
 
 ### ETL Process
 
@@ -139,6 +133,10 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Determining columns necessary for ML
 
+•Connect PGAdmin with Pandas to read in 2021,2017,2013,2009,2005, and 2001 merged files to being Machine Learning.
+
+![Screenshot (124)](https://user-images.githubusercontent.com/81484054/133953368-06fb0a92-a991-4af9-9f31-f7fb41fc54db.png)
+
 **Pre ETL of the raw campaign data**
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/81484054/132953447-5b6d9b48-aa2b-4e56-b8d6-6d71de150035.png)
@@ -150,7 +148,8 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 ![ERD OUTLINE](./ERD/ERDOutline.png)
 
 **ERD CURRENT TABLES**
-![ERD CURRENT TABLES](./ERD/ERDCurrentTables.png)
+![Untitled](https://user-images.githubusercontent.com/81484054/133953502-3399e1d6-d4a0-420a-9939-d5b8aebc926c.png)
+
 
 
 ## ML Model
