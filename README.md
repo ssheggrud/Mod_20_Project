@@ -157,6 +157,7 @@ We will use data from past elections to see whether our model can predict winner
 - The occupations of those who donated
 - The industries that contributed the most
 - The amount of corporate donations each candidate received
+
 This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections.
 - The model will taken in features such as money raised, expenditures, and source of funds to a particular candidate to predict the total number of votes, and therefore winner, of a NYC mayoral election.
 - We are using a K-nearest neighbor model to process our data.
