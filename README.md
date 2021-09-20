@@ -150,45 +150,47 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ## ML Model
 ### Overview
-Our goal is to create a supervised machine learning model to predict the results of the NYC mayoral elections.
-### Supervised Learning
-We will use data from past elections to see whether our model can predict winner of previous elections using data such as:
-- Total amount of money fundraised
-- The occupations of those who donated
-- The industries that contributed the most
-- The amount of corporate donations each candidate received
+The purpose of our model is to create a supervised learning algorithm to predict the total amount of money raised in a particular zip code for every New York City Mayoral election between 2005 and 2021. For our model, we used a Random Forest Regressor.
+### Preprocessing
+#### Feature Engineering
+The CSV files were initially sourced from the NYC Campaign Finance Board's website which were first cleaned using SQL and PgAdmin and were then loaded onto a notebook. The raw CSV files contained columns with the the amount, matched amount, and previous contributions, and we then aggregated those three columns to create a new column with the total amount of contributions given to a particular candidate. We then used Pandas' groupby function to groupby the sum of total amount of contribution based on the zip code from where the donation originated.
 
-This data is available to the public and can be found on the New York City Campaign Finanance Board's data library. We aim to see whether our model is able to accurately predict the winner of previous elections using these metrics and whether these categories have a causal relationship with the outcomes of said elections.
-- The model will taken in features such as money raised, expenditures, and source of funds to a particular candidate to predict the total number of votes, and therefore winner, of a NYC mayoral election.
-- We are using a K-nearest neighbor model to process our data.
 
-### Week 2: Data Preprocessing
-- All necessary modules were imported. The primary libraries used in this model were sklearn, Pandas, path, and NumPy.
-- The CSV files used in this model were sourced from the NYC campaign finance board's website. All campaign donation and expenditure data is publicly available on this website. The data was further cleaned by group members responsible for the database portion of this project.
-- The dataset was read into a Jupyter notebook using a Pandas dataframe. All null/NaN values were dropped from the dataset in order to prevent any errors.
-### Week 2: Feature Engineering
-- The dataset contained several columns that are useful during the visualization portion of this project but bear no real value to the machine learning model. These columns were dropped prior to being fed into the ML model to prevent any unneccessary noise.
-- The X features of our model are as follows:
-- - Candidate Name
-- - Date of donation
-- - Contributer Type (individual, corporate, PAC, etc.)
-- - City where the donation originates from
-- - State where the donation originates from
-- - Zip code where the donation originates from
-- - Initial donation amount
-- - Matched donation amount
-- - Previous donation amount
-- - Total donation amount
-- - Total expenditures by the candidate
--  The Y value for the model was the outcome of the election, as this model is analyzing only previous elections, the outcomes to which are available.
--  These features were chosen as prior literature indicates that these factors are amongst the most consequential when it comes to election outcomes. Other features, such as advertising data, was excluded from this dataset due to their lack of easy availability and trying to incorporate such data into this model would be too difficult given the timeframe of this project.
+#### Feature Selection
+To determine which features we deemed were necessary to test our model, we created various graphs of our raw data to determine whether we could visually identify a relationship between the total amount of money raised and a particular zip code. Using a the Pandas groupby function and matplotlib, we created bar charts which indicated a relationship between the total amount raised and particular zip codes. Initially, the goal of our project was to create a supervised classification model which could determine the outcome of past elections using these same features but we determined such a model would not be feasible in the allotted time, therefore we shifted to the current regression model. However, during our feature selection process we determined that the same features would be applicable to both models. Two columns of the initial CSV were removed prior to being fed into the model as we determined that they added no value to the model. These were the year of election column and the previous amount column. The former was removed because it was a superfluous column that added no value while the latter was removed because the data from that column was already factored in the amount column. The final features selected for our models are as follows:
+- Zip code
+- Type of contribution (individual, corporation, PAC, et al.)
+- Date of contribution
+- City of contribution
+- State of contribution
+- Amount of contribution
+- Amount of contribution matched by the city
+- The amount of money spent by the candidate's campaign (expenditures)
 
-### Week 2: Training and Test Split/ML model
-- Once the dataset was cleaned, we encoded it using sklearn's label encoder
-- The training and testing split was 80/20, with 80 percent being training data and 20 percent being testing data. This split was chosen as several prior election analysis ML models suggested doing so due to the large size of these datasets.
-- We used sklearn's K-nearest neighbor model to fit and predict our data. This model was chosen due to it being fairly accurate for these types of predictions and the interpretability factor. KNN models are easy to analyze once they are graphed and therefore can be explained easily to the laymen. However, there are limitations to this model, as its accuracy depends on the size of the data and irrelevant features may skew the data.
-- At the present, we have only tested the model out on the funds raised and outcomes of the 2017 NYC mayoral election. Thus far the model is capable of predicting the data with 90% accuracy, although it should be noted that the dataset was deliberately small as this model at the present is only for testing purposes. Furthermore, this election was not considered competitive and many factors outside of the features used were likely the cause of the outcome.
-- A rudimentary version of the model can be found in the MLScripts folder of the repository.
+#### Encoding
+To encode our data we used sklearn's label encoder. We encoded all non-numerical data within our dataset with sklearn's fit_transform function to ensure our model would be able to read it. We did not encode the amount, matched amount, expenditures, and total amount, as we needed them unencoded to be able to visually analyze our data and there did not seem to be any major effects to our model without such encoding.
+
+#### Model Choice
+We used a Random Forest Regressor for our model. We chose this model for a variety of reasons, which are as follows:
+- Able to work around outliers
+- The training and prediction speeds are quick
+- Contains low bias and moderate variance
+- It is capable of handling unbalanced data
+The model is not without it's drawbacks, as it can be difficult to interpret, it can often overfit the data, and can take up a lot of memory if the dataset is large.
+
+Initially, we were using the Random Forest Classifier for our model as we were attempting to create a classification model which can predict the outcomes of an election but we decided that a regression model to predict the total amount of money raised would be more realistic to complete in the allotted time. We therefore decided to change our model to the current one.
+
+#### Training and testing
+We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated.
+
+#### Accuracy Score
+To test for accuracy, we applied the R-squared function to our predictions. As we tested the model on four datasets, the R-squared values are as follows:
+- 2005: 0.71
+- 2009: 0.92
+- 2013: 0.87
+- 2017: 0.92
+- 2021: 0.88
+These high correlation results indicates that there is a correlation between the features we selected for our model and the the total amount of money raised in a particular zip code. The rather high correlation calculated by our model can also indicate that there were bugs in our code that led to some kind of imbalance that skewed our data. Further analyses must be done before we can use these as conclusive results. We plan on also calculating Root Mean Squared Error (RMSE), Residual Standard Error (RSE), Mean Absolute Error (MAE) to further analyze the accuracy of our model.
 
 ### Week 3: 
 - Tweaking the website to best display the Tableau data. HTML and CSS files were edited to better display the API from Tableau.
