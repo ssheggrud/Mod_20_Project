@@ -112,7 +112,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Determining columns necessary for ML
 
-•Connect PGAdmin with Pandas to read in 2021,2017,2013,2009,2005, and 2001 merged files to being Machine Learning.
+•Connect PGAdmin with Pandas to read in 2021,2017,2013,2009,2005, and 2001 merged files to begin Machine Learning.
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/81484054/133953368-06fb0a92-a991-4af9-9f31-f7fb41fc54db.png)
 
