@@ -150,7 +150,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ## ML Model
 ### Overview
-The purpose of our model is to create a supervised learning algorithm to predict the total amount of money raised in a particular zip code for every New York City Mayoral election between 2005 and 2021. For our model, we used a Random Forest Regressor.
+The purpose of our model is to create a supervised learning algorithm to predict the total amount of money raised in a particular zip code for every New York City Mayoral election between 2005 and 2021. For our model, we used a Random Forest Regressor. The code for our data can be found within the MLScripts folder of our repository. The models are named Regressions_2005, Regressions_2009, Regressions_2013, Regressions_2017, and Regressions_2021, with the numbers at the end corresponding with the election year.
 ### Preprocessing
 #### Feature Engineering
 The CSV files were initially sourced from the NYC Campaign Finance Board's website which were first cleaned using SQL and PgAdmin and were then loaded onto a notebook. The raw CSV files contained columns with the the amount, matched amount, and previous contributions, and we then aggregated those three columns to create a new column with the total amount of contributions given to a particular candidate. We then used Pandas' groupby function to groupby the sum of total amount of contribution based on the zip code from where the donation originated.
@@ -181,7 +181,7 @@ The model is not without it's drawbacks, as it can be difficult to interpret, it
 Initially, we were using the Random Forest Classifier for our model as we were attempting to create a classification model which can predict the outcomes of an election but we decided that a regression model to predict the total amount of money raised would be more realistic to complete in the allotted time. We therefore decided to change our model to the current one.
 
 #### Training and testing
-We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated.
+We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated. 
 
 #### Accuracy Score
 To test for accuracy, we applied the R-squared function to our predictions. As we tested the model on four datasets, the R-squared values are as follows:
