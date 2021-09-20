@@ -64,13 +64,21 @@ We have contributions and expenditures received and spent for each participating
 - Our visualization shows the top candidates sorted by the amount received and spent.  Highlight Hover action has been created on this page to enhance visual effects.
 
 ## Data
-Datasets date back from 2001 to present year 2021.
-
+ The data we have obtained to complete this project included publicly available records for each NYC Mayor Election Campaign donation reports from Individuals and Committee/Organizations. The following records did also include the Expenditure spending per election year that were tracked by each candidate. We were able to gather the data reports for six of the previous election terms. The 2021, 2017, 2013, 2009, 2005, and 2001 NYC Mayor Elections.
+ 
+ The following data that was obtained from the New York City Campaign Finance Board contained three separate types of CSVs. Individual, Committee and Expenditure reports. 
+ 
+ The Individual Donation reports contained data that was tracked based on an individual’s donation contribution to a particular candidate. Each row highlighted the donation amount, the donor's State, City, and Zip Code and the date each transaction was made. The following transactions contained an estimated amount of 65,000 records of tracked donations per election year.
+ 
+ The Committee Donation reports were similar to the Individual Donation reports. The main difference was that the donations were tracked  based off larger Corporation, Labor Union, Organizations, LLC, Political Action Committees, and Party Committees donations to the candidate. The following tracked Committee Donations per election year contained an average amount of 300-500 donation records per election.
+ 
+ The Expenditure report tracked each participating candidate's per election year expenditure spending during their campaigning. Some highlighted records that were tracked are Television and Radio advertisements, Professional Services, Campaign worker Salaries, Polling Costs, and many others. The following expenditure transactions were tracked by the location of the transaction that included the amount, date of transaction, City, State, and Zip Codes. The Expenditure reports contained an average amount of 12,000 tracked transactions per election year.
+ 
 **Data Resources:**
 
 https://www.nyccfb.info/follow-the-money/data-library/
 
-Please see the following screen shot that shows the home page of where our data files were stored before ETL
+Please see the following screen shot that shows the home page of where we have obatined all of our data.
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/81484054/132953388-e322ee90-fc3c-4f4c-9e1b-708fa13c51a2.png)
 
