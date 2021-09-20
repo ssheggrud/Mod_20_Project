@@ -1,9 +1,10 @@
-# ELECTION RESULTS
+# ELECTION FINANCE DATA ANALYSIS
 
 ## Overview
-The purpose of this project is to find out if/how money affects the outcome of elections.
+- Our project will analyze New York City mayoral elections.
 
-In attempt to find correlation across money donated, money expended, and overall election outcome we will use dataparsing libraries for data assembly, a database machine learning model, and data vizualization libraries for dashboarding.
+- We will determine whether there exists a relationship between the quantity of campaign finance donations and electoral results, and whether a donation sum from a particular occupation or industry is likewise related.
+
 
 ## Questions
 - How much financial data play a role in Mayor candidate election outcome. 
@@ -28,70 +29,39 @@ Tools used:
 2. Tableau Javascipt API
 
 **Description:**
-We are using Tableau to build our dashboard and story line. We are also going to make a webpage and use javascript API for tableau to link this page to our Tableau visualizations to make the page more cleaner. That page will have a placeholder to display results from our Machine Learning model as well.
+We have built our visualizations using Tableau.  Also, we have built our website using the Tableau JavaScript API, and have hosted it on Github.
 
-Refer the link below for the details on how we plan to use Javascript API:
+Here is the link to our Dashboard. It is hosted on our github account:
+https://ssheggrud.github.io/Mod_20_Project/index.html
 
-https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm
-
-Refer to the below link to access our tableau dashboard:
+Refer to the below link to access our tableau dashboard. This dashboard is hosted within our website created using TableauJavascriptAPI:
 
 https://public.tableau.com/app/profile/pooja.srivastava3629/viz/ElectionsFinanceData/Dashboard1
 
 **Who is our Target Audience?**
 
-Anybody who would want to learn about money’s role in New York City’s Mayor election results. They can see if there’s an impact of contributions and expenditures on a candidate’s performance.
+Anyone who is interested in learning about the role finance has on New York City’s mayoral elections.  They can see the difference between contributions and expenditures between candidates, as well as their significance.
 
 **What are our vizualizations going to tell us?**
 
-We are going to include election year data from 2001 to 2021. As of now, we have made a few vizualizations for the election year 2017. Also, we have only worked with the individual contributions for that year. This coming week, we are going to focus on adding data source for the remaining years as well. Post that, we will include committee contributions as well as expediture data in order to get a full picture.
+We have tried to visually understand how some of the data variables differ for a given candidate, such as ZIP codes, quarters (of a year), number and total amount of contributions, and total amount of expenditures per election year.
+We have contributions and expenditures received and spent for each participating candidate.  The range we have chosen is between 2001 and 2021 (the general election for the latter has yet to take place,) inclusive.
 
 **How do we add interactive elements to our dashboard?**
 
-- Dashboard 1 :
-    - The first source of filter is the election year. Default year selected is 2017 as of now.
-    - There is a Candidate Name mutiple selection dropdown filter in place to see joint data of candidates. Only relevant values will be shown in this dropdown.
-    - There is a graph that shows how many contributions came in for each of the candidates. Here candidate name can be selected to see data change in the map and quaterly contribution graphs.
-    - Map is color coded to better identify which zip codes had higher contributions.
-- Dashboard 2:
-    - It shows the top four candidates qualified by percentage contributions received. Highlight Hover action has been created on this page to add better visual effects on the page.
-
+- We have added filters to our dashboard, making them available via the All Using Related Data Sources option, so that any selection through the filter applies to all worksheets that are in any way related to the data source.
+- Please note that we have used multiple data sources and have used the Edit Blend Relationships option to link primary and secondary data sources.
+- We have added Highlight Actions to our dashboard which work when a user hovers over the source sheets.
+- We have added interactive text to our dashboard which dynamically change the text based on which election year was selected.
 
 **Features**
-- We can filter by election year and candidate names to view selective data on the dashboard. You can select one candidate on the top most graph and map and quaterly donations graphs would reflect data for the selected candidate as shown in the below picture.
 
-![image](https://user-images.githubusercontent.com/82654977/132999692-5986f3c1-1415-45a0-8fb2-836582309580.png)
-
-- Map shows the areas in USA from where donations came from for all Mayor candidates. You can select a colored area and it will show you the zip code and the total amount of contribution received from that zip code.
-
-![image](https://user-images.githubusercontent.com/82654977/132999772-4551f60b-48fb-4e95-b17f-26029b0c376b.png)
-
-- You can view the top four candidates by percent of individual contributions. A hover action has been added to the dashboard to make it interactive.
-
-![image](https://user-images.githubusercontent.com/82654977/132999846-cd9b53ca-ea19-4882-897e-b725143bf65e.png)
-
-- Story board is in progress.
-
-![image](https://user-images.githubusercontent.com/82654977/132999083-afd84f0e-8db5-4a07-b8ea-225d311e109f.png)
-![image](https://user-images.githubusercontent.com/82654977/132999172-173b89e0-9895-4e2d-8ac2-21ce200a7f07.png)
-
-
-## Week 1 Achievements
-
-- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates.
-- Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
-- At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add each years election results manually to a manually sourced excel as as individual column. We will name this column "Won/Elected".
-- We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
-- We have successfully identified roles for all the team members and have a good outline for our project.
-
-## Week 2 Achievements
-
- - We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
- - We have come up with few dashboards and a storyboard in Tableau.
- - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
- - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
- - Static table, join script and other DB scripts were added to the DBScripts folder.
- - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
+- We have a container in which each of the dashboards appear after clicking either the Previous or Next buttons.
+- Upon entering the homepage, one is taken to the first dashboard, so the Previous button is disabled.
+- The Next button takes the user from the first dashboard to the next, and is then disabled once the user reaches the last dashboard.  The user can always click on the Home button to return to the homepage.
+- There is a graph that shows how many contributions came in for each of the candidates.  Here, the candidate name can be selected to see data changes in the map and quarterly contribution graphs.
+- The map is color-coded to better identify which zip codes had higher contributions.
+- Our visualization shows the top candidates sorted by the amount received and spent.  Highlight Hover action has been created on this page to enhance visual effects.
 
 ## Data
 Datasets date back from 2001 to present year 2021.
@@ -150,7 +120,24 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 **ERD CURRENT TABLES**
 ![Untitled](https://user-images.githubusercontent.com/81484054/133953502-3399e1d6-d4a0-420a-9939-d5b8aebc926c.png)
 
+------------************************************************---------------------------------------------------------
 
+## Week 1 Achievements
+
+- We have the datasets which we will be using for our project. Refer to https://www.nyccfb.info/follow-the-money/cunymap-2021 in order to look at the individual and committee level contributions to our Mayor Candidates.
+- Refer to **2017_Mayor_IC.csv** and **2017_Mayor_CC.csv** files in our repository for sample data.
+- At first we had decided to get data from Legistar API provided by NYC Coucil website. We were successfully able to read data from the API. Refer to LegistarAPI.ipynb file posted on https://github.com/ssheggrud/Mod_20_Project/tree/05_Pooja . Altough we later decided that had we used that data, it would have unnecessarily added complexity to our code. Hence, we decided to add each years election results manually to a manually sourced excel as as individual column. We will name this column "Won/Elected".
+- We have successfully imported the election year results of 2017 indivdual and committee contributions to a DataFrame. Please refer to: https://github.com/ssheggrud/Mod_20_Project/tree/05_Riley
+- We have successfully identified roles for all the team members and have a good outline for our project.
+
+## Week 2 Achievements
+
+ - We have finished the presentation slide show: https://docs.google.com/presentation/d/1Y1IFccSH7uFPhK94G6A1tpfghD0K2uWRChJvdhHHcMU/edit?usp=sharing
+ - We have come up with few dashboards and a storyboard in Tableau.
+ - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
+ - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
+ - Static table, join script and other DB scripts were added to the DBScripts folder.
+ - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
 
 ## ML Model
 ### Overview
@@ -198,38 +185,3 @@ This data is available to the public and can be found on the New York City Campa
 ![Screenshot (Webpage)](./Resources/screenshot.png)
 - We have finished the website with Tableau data: https://ssheggrud.github.io/Mod_20_Project/index.html
 - (more text here)
-
-## Roles
-
-### Abir
-    - Point for machine learning
-    - TRIANGLE
-
-### Brandon
-    - Co point for technologies and integration
-    - Co point for database schema
-    - Co point for docs
-    - CIRCLE
-
-### Riley
-    - Co point for database schema
-    - Co point for docs
-    - CIRCLE
-
-### Jose
-    - Point for data visualization
-    - Co point for machine learning
-    - Co point for technologies and integration
-    - X
-
-### Pooja
-    - Point for data ops
-    - Point for data visualization
-    - TRIANGLE
-
-### Sherry
-    - Point for repository management
-    - Editing/finessing HTML for visualization website
-    - Co point for data visualization
-    - Co point for docs
-    - SQUARE
