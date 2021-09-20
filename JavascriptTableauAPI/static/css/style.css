@@ -4,30 +4,36 @@
   }*/
 
   .jumbotron {
-    background-image: url("../images/image.jpeg");
-    background-size: 100%;
-    text-align: center;
-    text-shadow: 1px 1px #FFFFFF;
-    font-family: 'Times New Roman', Times, serif !important;
-    color: black;
-  }
+      background-image: url("../images/image.jpeg");
+      background-size: 100%;
+      text-align: center;
+      text-shadow: 1px 1px #FFFFFF;
+      font-family: 'Times New Roman', Times, serif !important;
+      color: black;
+}
 
-  .font {text-align:center; font-family: 'Times New Roman', Times, serif;}
+    .font {
+        text-align:center;
+        font-family: 'Times New Roman', Times, serif;
+}
 
-  .info {font-family: 'Times New Roman'; font-size:12px; font-weight: 900;}
+    .info {
+        font-family: 'Times New Roman'; font-size:12px; font-weight: 900;
+}
 
-  .grey{
-    background-color :lightblue;
-  }
-  .footer1 {
-    background-color :lightblue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  .ScrollStyle
-{
-    max-height: 150px;
-    overflow-y: scroll;
-    max-width: 150px;
-    overflow-x: scroll;
+    .grey {
+        background-color :lightblue;
+}
+
+    .footer1 {
+        text-align: center;
+        background-color :lightblue;
+        font-family: 'Times New Roman', Times, serif;
+}
+
+    .ScrollStyle {
+        max-height: 150px;
+        overflow-y: scroll;
+        max-width: 150px;
+        overflow-x: scroll;
 }
