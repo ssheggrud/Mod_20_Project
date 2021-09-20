@@ -97,9 +97,10 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/81484054/132890400-b199f695-83da-4471-b0d1-9badb392497b.png)
 
-•	Upload each election year CSV for individual donations, committee donations, and candidate expenditures within Google Colab.
+•	Upload each election year CSV for individual donations, committee donations, and candidate expenditures within Google Colab.(The following files can be found within **Resources > Contribution tables (CSVs) and Expenditure Reports (CSVs)**)
 
-•	Perform Pyspark functions of reading CSVs in data frames, dropping columns, changing data types, changing column names, converting the value names within each column, filter the data frames to display only the mayor elections and participants within the mayor election year, create a total sum column that’s added by the donation amount, candidate match amount, and previous donation amount
+
+•	Perform Pyspark functions of reading CSVs in data frames, dropping columns, changing data types, changing column names, converting the value names within each column, filter the data frames to display only the mayor elections and participants within the mayor election year, create a total sum column that’s added by the donation amount, candidate match amount, and previous donation amount (The following scripts can be found within **DataCleaningAndTransforming > Google Colab Documents**)
 
 •	Once the data frame is reviewed and approved by the team export the clean data frame into a new CSV (Transformed dataframes into new CSVs can be found in **Resources** )
 
@@ -107,7 +108,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Create the join on committees and individual tables to prepare for machine learning.
 
-• Merge/Union the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year.
+• Merge/Union the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year. (The following merged tables can be found here **Resources > Merged Contribution and Expenditure (CSVs)**) 
 
 •	Determining columns necessary for ML
 
