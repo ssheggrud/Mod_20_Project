@@ -194,6 +194,9 @@ This data is available to the public and can be found on the New York City Campa
 
 ### Week 4: 
 - Tweaking the website to best display the Tableau data. HTML and CSS files were edited to better display the API from Tableau.
+![Screenshot (Webpage)](./Resources/screenshot.png)
+- We have finished the website with Tableau data: https://ssheggrud.github.io/Mod_20_Project/index.html
+- (more text here)
 
 ## Roles
 
