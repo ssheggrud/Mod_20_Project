@@ -176,6 +176,8 @@ We used a Random Forest Regressor for our model. We chose this model for a varie
 - The training and prediction speeds are quick
 - Contains low bias and moderate variance
 - It is capable of handling unbalanced data
+
+
 The model is not without it's drawbacks, as it can be difficult to interpret, it can often overfit the data, and can take up a lot of memory if the dataset is large.
 
 Initially, we were using the Random Forest Classifier for our model as we were attempting to create a classification model which can predict the outcomes of an election but we decided that a regression model to predict the total amount of money raised would be more realistic to complete in the allotted time. We therefore decided to change our model to the current one.
