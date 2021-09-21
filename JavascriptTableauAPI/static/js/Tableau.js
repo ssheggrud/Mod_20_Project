@@ -11,7 +11,7 @@ var counter = 0;
 
 var viz;
 
-// called on load. onFirstInteractive is called line 25 is run. 
+// called on load. onFirstInteractive is called line 25 is run.
 function initViz() {
   const button5 = document.getElementById("btnPrevious");
   button5.disabled = true;
@@ -27,18 +27,18 @@ function initViz() {
   }
   };
 
-  
+
   viz = new tableau.Viz(placeholderDiv, vizURL, options);
   //var dashboardDesc = getElementById("textForDashboard");
   dashboard1Text()
    // dashboardDesc.appendChild(textNode);
-  
-  
+
+
   console.log("viz displayed");
-  
+
   console.log("event listened to");
- 
-  
+
+
 };
 
 // called on click of Next button
@@ -47,7 +47,7 @@ function switchToNextTab(){
   console.log("line1");
     console.log(activeSheet.getName());
     switch(activeSheet.getName()){
-      case "Dashboard 1":  
+      case "Dashboard 1":
         workbook.activateSheetAsync("Dashboard 2")
         .then(function (sheet){
           activeSheet = workbook.getActiveSheet();
@@ -68,7 +68,7 @@ function switchToNextTab(){
         dashboard3Text();
         break;
         case "Dashboard 3":
-         
+
         workbook.activateSheetAsync("Dashboard 4")
         .then(function (sheet){
           activeSheet = workbook.getActiveSheet();
@@ -78,7 +78,7 @@ function switchToNextTab(){
         dashboard4Text();
         break;
         case "Dashboard 4":
-          
+
         workbook.activateSheetAsync("Dashboard 5")
         .then(function (sheet){
           activeSheet = workbook.getActiveSheet();
@@ -102,7 +102,7 @@ function switchToPreviousTab(){
   console.log("line2")
     console.log(activeSheet.getName());
     switch(activeSheet.getName()){
-      case "Dashboard 2":  
+      case "Dashboard 2":
 
         workbook.activateSheetAsync("Dashboard 1")
         .then(function (sheet){
@@ -116,7 +116,7 @@ function switchToPreviousTab(){
         button1.disabled = false;
         dashboard1Text();
         break;
-        case "Dashboard 3":  
+        case "Dashboard 3":
 
         workbook.activateSheetAsync("Dashboard 2")
         .then(function (sheet){
@@ -126,7 +126,7 @@ function switchToPreviousTab(){
         })
         dashboard2Text();
         break;
-        case "Dashboard 4":  
+        case "Dashboard 4":
 
         workbook.activateSheetAsync("Dashboard 3")
         .then(function (sheet){
@@ -136,7 +136,7 @@ function switchToPreviousTab(){
         })
         dashboard3Text();
         break;
-        case "Dashboard 5":  
+        case "Dashboard 5":
 
         workbook.activateSheetAsync("Dashboard 4")
         .then(function (sheet){
@@ -160,7 +160,7 @@ a.append.te
 };
 
 function dashboard2Text(){
-document.getElementById("textForDashboard").innerText = "Top candidates by donations & expenditures."
+document.getElementById("textForDashboard").innerText = "Top candidates by Donations & Expenditures."
 
 };
 
@@ -200,7 +200,7 @@ function Get_PNG() {
     ar.push("JavascriptTableauAPI/static/images/Regression_2005.png");
     ar.push("JavascriptTableauAPI/static/images/blank.png");
 
- 
+
     for (i = 0; ar.length > i; i++)
     {
       var img = new Image(400, 400);
@@ -217,11 +217,4 @@ function Get_PNG() {
       button7.disabled = true;
       const button8 = document.getElementById("btnPrevious");
       button8.disabled = true;
-    }; 
-
-
-
-
-
-
-
+    };
