@@ -11,40 +11,41 @@
   <link rel="stylesheet" href="JavascriptTableauAPI/static/css/style.css">
 
 </head>
+
 <body onload="initViz();">
+
 <div class="grey container col-lg-12">
-  <div class="row">
+  <!--div class="row"-->
     <div class="display-4 jumbotron text-center col-lg-12">
       <h1 class=font>New York City Campaign Finance Board</h1>
     </div>
-  </div>
+  <!--/div-->
   <div>
     <h3 class=font>Finance Data Analysis</h3>
-    <h5 class=font>Contributions to Participating Mayoral Candidates. Enjoy exploring our interactive dashboard!</h5>
+    <h6 class=font>Contributions to Participating Mayoral Candidates. Enjoy exploring our interactive dashboard!</h6>
   </div>
-  <div id="controls" align='center' style="padding:20px;">
-    <input type="button" align='center' onclick="Get_PNG();" id="btnML" value="Click to view results of our Machine Learning Model">
-    <p><p></p></p>
+  <div id="controls" align='center' style="padding:15px;">
     <input type="button" onclick="javascript:switchToPreviousTab();" id="btnPrevious" value="Previous">
     <input type="button" onclick="location.href='index.html'" value="Home">
-    <input type="button" onclick="javascript:switchToNextTab();" id="btnNext" value="Next">
+    <input type="button" onclick="javascript:switchToNextTab();" id="btnNext" value="Next"><br><br>
+    <input type="button" onclick="Get_PNG();" id="btnML" value="Click to view results of our Machine Learning Model">
+  </div>
+  <div>
+    <p id="textForDashboard" class="dashText col-lg-12" ScrollStyle> </p>
   </div>
   <div class="row">
-    <div id="textForML" class="col-lg-2" align='center' ScrollStyle> 
+    <div id="textForML" class="col-lg-12" align='left' ScrollStyle></div>
+    <div class="col-lg-12" align='center' ScrollStyle>
+      <div id="Div1" style="width:100%; height:900px; overflow:auto;"></div>
     </div>
-
-    <div class="col-lg-8" align='center' ScrollStyle>
-      <div id="Div1" style="width:800px; height:800px; overflow:auto;"></div>
-    </div>
-      <p id="textForDashboard" class="col-lg-2" align='center' ScrollStyle> </p>
   </div>
-  <br><br><br><br><br><br>
-  <footer class='footer1' align='center'>
-    <p>Authors: Abir Hossain, Brandon Bell, Jose Pascual, Pooja Srivastava, Riley Corpac, Sherry Sheggrud<br>
-      Final Project for the April 2021 Columbia Engineering Data Analysis Bootcamp</p>
+  <footer class='footer1'>
+    <br>
+      Authors: Abir Hossain, Brandon Bell, Jose Pascual, Pooja Srivastava, Riley Corpac, Sherry Sheggrud<br>
+      Final Project for the April 2021 Columbia Engineering Data Analysis Bootcamp.
+    <br>
   </footer>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-
 </body>
 </html>
