@@ -198,7 +198,7 @@ function Get_PNG() {
     ar.push("JavascriptTableauAPI/static/images/Regression_2013.png");
     ar.push("JavascriptTableauAPI/static/images/Regression_2009.png");
     ar.push("JavascriptTableauAPI/static/images/Regression_2005.png");
-    ar.push("JavascriptTableauAPI/static/images/blank.png");
+    //ar.push("JavascriptTableauAPI/static/images/blank.png");
 
 
     for (i = 0; ar.length > i; i++)
