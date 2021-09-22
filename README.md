@@ -7,7 +7,7 @@
 
 
 ## Questions
-- How much financial data play a role in Mayor candidate election outcome. 
+- How much financial data play a role in Mayor candidate election outcome.
 
 ## Technologies
 
@@ -65,15 +65,15 @@ We have contributions and expenditures received and spent for each participating
 
 ## Data
  The data we obtained for this project include publicly available records for each NYC mayoral election campaign donation reports from Individuals and Committee/Organizations. The following records also included the Expenditure spending per election year that were tracked by each candidate. We were able to gather the data reports for the six most recent election terms, namely for 2001, 2005, 2009, 2013, 2017, and 2021.
- 
- The following data that was obtained from the New York City Campaign Finance Board contained three separate .csv files for each election year: Individual, Committee and Expenditure reports. 
- 
+
+ The following data that was obtained from the New York City Campaign Finance Board contained three separate .csv files for each election year: Individual, Committee and Expenditure reports.
+
  The Individual Donation reports contained data that was tracked based on an individual’s donation contribution to a particular candidate. Each row highlights the donation amount, the donor's State, City, and Zip Code and the date each transaction was made. The following transactions contained an estimated amount of 65,000 records of tracked donations per election year.
- 
+
  The Committee Donation reports were similar to the Individual Donation reports. The main difference was that the donations were tracked based on larger Corporation, Labor Union, Organizations, LLC, Political Action Committees, and Party Committees donations to the candidate. The following tracked Committee Donations per election year contained an average amount of 300-500 donation records per election.
- 
+
  The Expenditure report tracked each participating candidate's per election year expenditure spending during their campaigning. Some highlighted records that were tracked are Television and Radio advertisements, Professional Services, Campaign Worker Salaries, Polling Costs, and many others. The following expenditure transactions were tracked by the location of the transaction that included the amount, date of transaction, City, State, and Zip Codes. The Expenditure reports contained an average amount of 12,000 tracked transactions per election year.
- 
+
 **Data Resources:**
 
 https://www.nyccfb.info/follow-the-money/data-library/
@@ -108,7 +108,7 @@ The steps taken to extract, transform, and load the data for analysis are as fol
 
 •	Create the join on committees and individual tables to prepare for machine learning.
 
-• Merge/Union the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year. (The following merged tables can be found here **Resources > Merged Contribution and Expenditure (CSVs)**) 
+• Merge/Union the tables by the individual data frame, committe contribution data frame, as well as the expenditure report dataframes all as a single CSV per year. (The following merged tables can be found here **Resources > Merged Contribution and Expenditure (CSVs)**)
 
 •	Determining columns necessary for ML
 
@@ -165,17 +165,24 @@ The model is not without it's drawbacks, as it can be difficult to interpret, it
 Initially, we were using the Random Forest Classifier for our model as we were attempting to create a classification model which can predict the outcomes of an election but we decided that a regression model to predict the total amount of money raised would be more realistic to complete in the allotted time. We therefore decided to change our model to the current one.
 
 ### Training and testing
-We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated. 
+We trained and tested our dataset using sklearn's train_test_split. The features listed above were all used as the X values and the total amount raised was used as the y value. The training size was 0.7 and testing size was 0.3 which was determined after various test models suggested this was the optimal split. The data was then fitted and tested using the Random Forest Regressor, after which the predictions were generated.
 
 ### Accuracy Score
-To test for accuracy, we applied the R-squared function to our predictions. As we tested the model on four datasets, the R-squared values are as follows:
-- 2005: 0.71
+To test for accuracy, we applied the R-squared and the Root-mean-square deviation error (RMSE) functions to our predictions. As we tested the model on four datasets, the R-squared values are as follows:
+- 2005: 0.72
 - 2009: 0.92
-- 2013: 0.87
+- 2013: 0.85
 - 2017: 0.92
-- 2021: 0.88
-These high correlation results indicates that there is a correlation between the features we selected for our model and the the total amount of money raised in a particular zip code. The rather high correlation calculated by our model can also indicate that there were bugs in our code that led to some kind of imbalance that skewed our data. Further analyses must be done before we can use these as conclusive results. We plan on also calculating Root Mean Squared Error (RMSE), Residual Standard Error (RSE), Mean Absolute Error (MAE) to further analyze the accuracy of our model.
+- 2021: 0.85
+The Root-mean-square deviation values are as follows:
+- 2005: 0.009
+- 2009: 0.004
+- 2013: 0.014
+- 2017: 0.013
+- 2021: 0.008
 
+
+These high correlation results indicates that there is a correlation between the features we selected for our model and the the total amount of money raised in a particular zip code. The rather high correlation calculated by our model can also indicate that there were bugs in our code that led to some kind of imbalance that skewed our data. The values for the RMSE deviations tell us that there is a low difference between the test and predicted values, indicating that there is indeed a relationship between our features and the total amount raised, however there is a possibility that errors occurred during the construction of the code that may have led to some form of data leakage and therefore skewing the results. Further analyses must be done before we can use these as conclusive results. 
 
 ------------************************************************---------------------------------------------------------
 
@@ -194,9 +201,9 @@ These high correlation results indicates that there is a correlation between the
  - We have started work on linking our tableau vizualization to our html page using Tableau Javascript API.
  - Successful transformed the 2017 Election year Individual, Committee, and Expenditures raw CSV's into a transformed and test ready file from Google Colab using Pyspark and Pandas while exporting the cleaned dataframes into SQL and new local CSVs. To see the final 2017 transformation process please refer to the **DataCleaningTransformation** folder.
  - Static table, join script and other DB scripts were added to the DBScripts folder.
- - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data. 
+ - A base sklearn's K-nearest neighbor model can been created and run on a sample 2017 data.
 
-### Week 3: 
+### Week 3:
 - Tweaking the website to best display the Tableau data. HTML and CSS files were edited to better display the API from Tableau.
 ![Screenshot (Webpage)](./Resources/screenshot.png)
 - We have finished the website with Tableau data: https://ssheggrud.github.io/Mod_20_Project/index.html
